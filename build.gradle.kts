@@ -24,11 +24,18 @@ dependencies {
     // This dependency is used by the application.
     implementation("com.google.guava:guava:29.0-jre")
 
+    // https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter
+    testCompile("org.junit.jupiter:junit-jupiter:5.7.0")
+
     // Use JUnit Jupiter API for testing.
-    testImplementation("org.junit.jupiter:junit-jupiter-api:5.6.2")
+    testImplementation("org.junit.jupiter:junit-jupiter-api:5.7.0")
 
     // Use JUnit Jupiter Engine for testing.
-    testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.6.2")
+    testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.7.0")
+
+    // https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-params
+    testCompile("org.junit.jupiter:junit-jupiter-params:5.7.0")
+
 }
 
 application {
@@ -39,4 +46,9 @@ application {
 val test by tasks.getting(Test::class) {
     // Use junit platform for unit tests
     useJUnitPlatform()
+}
+
+tasks.named<Wrapper>("wrapper") {
+    gradleVersion = "6.7.1"
+    distributionType = Wrapper.DistributionType.ALL
 }
