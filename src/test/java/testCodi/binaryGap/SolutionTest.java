@@ -20,7 +20,7 @@ public class SolutionTest {
 
     @ParameterizedTest
     @MethodSource("getInputData")
-    void test(int inputNumber, int expectedResult) {
+    void testBinaryGap(int inputNumber, int expectedResult) {
         System.out.println(inputNumber + " " + Integer.toBinaryString(inputNumber) + " " + expectedResult);
         assertEquals(expectedResult, cut.solution(inputNumber));
     }

@@ -20,7 +20,6 @@ class Solution {
             int currentOne = binary.indexOf('1');
             if (-1 != currentOne) {
                 if (maxGap < currentOne) {
-
                     maxGap = currentOne;
                 }
                 binary = binary.substring(currentOne + 1);
