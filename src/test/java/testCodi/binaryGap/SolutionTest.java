@@ -25,10 +25,6 @@ public class SolutionTest {
     }
 
     static Stream<Arguments> getInputData() {
-        return Stream.of(
-                of(1041, 5),
-                of(15, 0),
-                of(32, 0)
-        );
+        return Stream.of(of(1041, 5), of(15, 0), of(32, 0));
     }
 }
