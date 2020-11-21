@@ -12,12 +12,23 @@ plugins {
 
     // Apply the application plugin to add support for building a CLI application.
     application
+
+//    kotlin("multiplatform") version "1.4.10"
+    kotlin("jvm") version "1.4.10"
 }
 
 java {
     toolchain {
         languageVersion.set(JavaLanguageVersion.of(15))
     }
+}
+
+sourceSets.main {
+    java.srcDirs("src/main/java")
+}
+
+sourceSets.test {
+    java.srcDirs("src/test/java")
 }
 
 repositories {

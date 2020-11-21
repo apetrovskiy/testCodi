@@ -17,7 +17,7 @@ class SolutionK {
                 }
                 binary = binary.substring(currentOne + 1)
             } else {
-                break
+                return maxGap
             }
         }
         return maxGap
