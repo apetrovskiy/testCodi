@@ -14,6 +14,12 @@ plugins {
     application
 }
 
+java {
+    toolchain {
+        languageVersion.set(JavaLanguageVersion.of(15))
+    }
+}
+
 repositories {
     // Use jcenter for resolving dependencies.
     // You can declare any Maven/Ivy/file repository here.
@@ -21,11 +27,14 @@ repositories {
 }
 
 dependencies {
+    // https://mvnrepository.com/artifact/org.jetbrains.kotlin/kotlin-stdlib
+    implementation("org.jetbrains.kotlin:kotlin-stdlib:1.4.20")
+
     // This dependency is used by the application.
     implementation("com.google.guava:guava:29.0-jre")
 
     // https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter
-    testCompile("org.junit.jupiter:junit-jupiter:5.7.0")
+    testImplementation("org.junit.jupiter:junit-jupiter:5.7.0")
 
     // Use JUnit Jupiter API for testing.
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.7.0")
@@ -34,7 +43,13 @@ dependencies {
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.7.0")
 
     // https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-params
-    testCompile("org.junit.jupiter:junit-jupiter-params:5.7.0")
+    testImplementation("org.junit.jupiter:junit-jupiter-params:5.7.0")
+
+    // https://mvnrepository.com/artifact/org.jetbrains.kotlin/kotlin-test
+    testImplementation("org.jetbrains.kotlin:kotlin-test:1.4.20")
+
+    // https://mvnrepository.com/artifact/org.junit.vintage/junit-vintage-engine
+    testImplementation("org.junit.vintage:junit-vintage-engine:5.7.0")
 
 }
 

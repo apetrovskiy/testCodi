@@ -11,11 +11,11 @@ import org.junit.jupiter.params.provider.MethodSource;
 import java.util.stream.Stream;
 
 public class SolutionTest {
-    private Solution cut;
+    private SolutionJ cut;
 
     @BeforeEach
     void setUp() {
-        cut = new Solution();
+        cut = new SolutionJ();
     }
 
     @ParameterizedTest

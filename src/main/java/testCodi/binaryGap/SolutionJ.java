@@ -6,7 +6,7 @@
 
 package testCodi.binaryGap;
 
-class Solution {
+class SolutionJ {
     public int solution(int N) {
         // write your code in Java SE 8
         String originalBinary = Integer.toBinaryString(N);
