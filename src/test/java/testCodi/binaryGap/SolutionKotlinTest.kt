@@ -10,7 +10,7 @@ class SolutionKotlinTest(
     private val inputNumber: Int,
     private val expectedResult: Int
 ) {
-    @Test
+//    @Test
     fun testBinaryGap() {
         val actualResult = SolutionK().solutiion(inputNumber)
         assertEquals(expectedResult, actualResult)

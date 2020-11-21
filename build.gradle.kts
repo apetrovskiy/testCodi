@@ -62,6 +62,11 @@ dependencies {
     // https://mvnrepository.com/artifact/org.junit.vintage/junit-vintage-engine
     testImplementation("org.junit.vintage:junit-vintage-engine:5.7.0")
 
+    // https://mvnrepository.com/artifact/org.junit.platform/junit-platform-runner
+    testImplementation("org.junit.platform:junit-platform-runner:1.7.0")
+
+    // https://mvnrepository.com/artifact/junit/junit
+    testImplementation("junit:junit:4.13.1")
 }
 
 application {
