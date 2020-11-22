@@ -10,6 +10,8 @@ plugins {
     // Apply the java plugin to add support for Java
     java
 
+    `java-library`
+
     // Apply the application plugin to add support for building a CLI application.
     application
 
@@ -17,10 +19,23 @@ plugins {
     kotlin("jvm") version "1.4.10"
 }
 
+/*
 java {
     toolchain {
-        languageVersion.set(JavaLanguageVersion.of(15))
+        languageVersion.set(JavaLanguageVersion.of(11))
     }
+}*/
+
+tasks.withType<JavaCompile>().configureEach {
+    javaCompiler.set(javaToolchains.compilerFor {
+        languageVersion.set(JavaLanguageVersion.of(11))
+    })
+}
+
+tasks.withType<Test>().configureEach {
+    javaLauncher.set(javaToolchains.launcherFor {
+        languageVersion.set(JavaLanguageVersion.of(14))
+    })
 }
 
 sourceSets.main {
