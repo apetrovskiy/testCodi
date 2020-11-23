@@ -1,4 +1,4 @@
-package testCodi.binaryGap
+/*package testCodi.binaryGap
 
 import org.junit.jupiter.api.Test
 import org.junit.runner.RunWith
@@ -29,3 +29,4 @@ class SolutionKotlinTest(
         }
     }
 }
+*/

@@ -11,18 +11,27 @@ import org.junit.jupiter.params.provider.MethodSource;
 import java.util.stream.Stream;
 
 public class SolutionTest {
-    private SolutionJ cut;
+    private SolutionJ cutJava;
+    private SolutionK cutKotlin;
 
     @BeforeEach
     void setUp() {
-        cut = new SolutionJ();
+        cutJava = new SolutionJ();
+        cutKotlin = new SolutionK();
     }
 
     @ParameterizedTest
     @MethodSource("getInputData")
-    void testBinaryGap(int inputNumber, int expectedResult) {
+    void testBinaryGapJava(int inputNumber, int expectedResult) {
         System.out.println(inputNumber + " " + Integer.toBinaryString(inputNumber) + " " + expectedResult);
-        assertEquals(expectedResult, cut.solution(inputNumber));
+        assertEquals(expectedResult, cutJava.solution(inputNumber));
+    }
+
+    @ParameterizedTest
+    @MethodSource("getInputData")
+    void testBinaryGapKotlin(int inputNumber, int expectedResult) {
+        System.out.println(inputNumber + " " + Integer.toBinaryString(inputNumber) + " " + expectedResult);
+        assertEquals(expectedResult, cutKotlin.solution(inputNumber));
     }
 
     static Stream<Arguments> getInputData() {
