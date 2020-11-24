@@ -56,6 +56,8 @@ dependencies {
     // https://mvnrepository.com/artifact/org.jetbrains.kotlin/kotlin-stdlib
     implementation("org.jetbrains.kotlin:kotlin-stdlib:1.4.20")
 
+    implementation("org.clojure:clojure:1.10.2-alpha4")
+
     // This dependency is used by the application.
     implementation("com.google.guava:guava:29.0-jre")
 
