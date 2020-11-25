@@ -25,6 +25,7 @@
 		],
 		"python.testing.nosetestArgs": [
 			"src/test/java/testCodi"
-		]
+		],
+		"java.configuration.updateBuildConfiguration": "automatic"
 	}
 }
