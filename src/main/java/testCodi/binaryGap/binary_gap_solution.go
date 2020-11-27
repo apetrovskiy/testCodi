@@ -9,11 +9,12 @@ import "strings"
 // you can write to stdout for debugging purposes, e.g.
 // fmt.Println("this is a debug message")
 
-func main() {
-	Solution(1041)
-}
+/*func main() {
+	inaryGapSolution01(1041)
+}*/
 
-func Solution(N int) int {
+// The binary gap solution
+func Solution01(N int) int {
 	// write your code in Go 1.4
 	temp1 := strconv.Itoa(N)
 	temp2, _ := strconv.ParseInt(temp1, 10, 64)
