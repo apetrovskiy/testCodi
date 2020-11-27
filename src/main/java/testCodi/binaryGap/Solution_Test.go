@@ -1,7 +1,6 @@
-package solution
+package binarygap
 
 import "testing"
-// import "../../../../main/java/testCodi/binaryGap/Solution"
 
 var testData = []struct {
 	in  int

@@ -1,4 +1,4 @@
-package solution
+package binarygap
 
 // you can also use imports, for example:
 // import "fmt"
