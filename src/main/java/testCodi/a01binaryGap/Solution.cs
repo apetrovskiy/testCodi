@@ -1,4 +1,4 @@
-namespace testCodi.binaryGap
+namespace testCodi.a01BinaryGap
 {
     using System;
     // you can also use other imports, for example:

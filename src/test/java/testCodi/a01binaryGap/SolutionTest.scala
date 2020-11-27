@@ -1,4 +1,4 @@
-package testCodi.binaryGap
+package testCodi.a01BinaryGap
 
 class SolutionTest {
     

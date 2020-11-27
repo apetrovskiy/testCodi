@@ -4,7 +4,7 @@
 // you can write to stdout for debugging purposes, e.g.
 // System.out.println("this is a debug message");
 
-package testCodi.binaryGap;
+package testCodi.a01BinaryGap;
 
 class SolutionJ {
     public int solution(int N) {

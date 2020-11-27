@@ -1,4 +1,4 @@
-/*package testCodi.binaryGap
+/*package testCodi.a01BinaryGap
 
 import org.junit.jupiter.api.Test
 import org.junit.runner.RunWith

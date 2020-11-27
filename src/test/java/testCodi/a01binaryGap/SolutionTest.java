@@ -1,4 +1,4 @@
-package testCodi.binaryGap;
+package testCodi.a01BinaryGap;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.params.provider.Arguments.of;
