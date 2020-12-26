@@ -1,7 +1,6 @@
-package solution_test
+package binarygap
 
 import "testing"
-import "../../../../main/java/testCodi/binaryGap/Solution"
 
 var testData = []struct {
 	in  int
@@ -13,9 +12,9 @@ var testData = []struct {
 	{805306373, 25}, {1376796946, 5}, {1073741825, 29}, {1610612737, 28},
 }
 
-func TestSolution(t *testing.T) {
+func TestBinaryGap(t *testing.T) {
 	for _, td := range testData {
-		if td.out != Solution(td.in) {
+		if td.out != Solution01(td.in) {
 			t.Errorf("FAIL!")
 		}
 	}

@@ -1,5 +1,5 @@
 # [1..2,147,483,647].
-from src.main.java.testCodi.binaryGap.solution import solution
+from src.main.java.testCodi.a01binaryGap.solution import solution
 import pytest
 
 # from nose.tools import assert_equal
