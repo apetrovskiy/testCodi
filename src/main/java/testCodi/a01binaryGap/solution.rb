@@ -27,5 +27,5 @@ def solution_binary_gap(n)
       break
     end
   end
-  return max_gap
+  max_gap
 end

@@ -14,7 +14,7 @@ var testData = []struct {
 
 func TestBinaryGap(t *testing.T) {
     for _, td := range testData {
-        if td.out != Solution01(td.in) {
+        if td.out != SolutionBinaryGap(td.in) {
             t.Errorf("FAIL!")
         }
     }

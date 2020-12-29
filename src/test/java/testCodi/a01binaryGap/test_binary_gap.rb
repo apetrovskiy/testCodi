@@ -2,7 +2,7 @@ require 'param_test'
 require 'test/unit'
 
 class MultipleParamsTest < ActiveSupport::TestCase
-  param_test "%s includes whitespace is %s", [
+  param_test "in %s binary gap is %s", [
     [9, 2], [529, 4], [20, 1], [1041, 5], [15, 0], [32, 0], [1, 0], [5, 1],
     [2_147_483_647, 0], [6, 0], [328, 2], [16, 0], [1024, 0], [11, 1], [19, 2], [42, 1],
     [1162, 3], [51_712, 2], [561_892, 3], [66_561, 9], [6_291_457, 20], [74_901_729, 4],
