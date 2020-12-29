@@ -11,5 +11,5 @@ from typing import List
         ([42], 42)
     ],
 )
-def test_odd_occurencyes_in_array(input_array: List[int], expected_result: int):
+def test_odd_occurrences_in_array(input_array: List[int], expected_result: int):
     assert expected_result == solution(input_array)
