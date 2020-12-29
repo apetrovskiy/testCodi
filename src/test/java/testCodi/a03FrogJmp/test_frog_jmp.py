@@ -1,5 +1,5 @@
-from target.classes.testCodi.a03FrogJmp.frog_jmp import solution_frog_jmp
 import pytest
+from src.main.java.testCodi.a03FrogJmp.frog_jmp import solution_frog_jmp
 
 
 @pytest.mark.parametrize(
