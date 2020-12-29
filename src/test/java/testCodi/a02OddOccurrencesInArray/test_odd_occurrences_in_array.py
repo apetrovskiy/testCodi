@@ -1,4 +1,4 @@
-from src.main.java.testCodi.a02OddOccurrencesInArray.solution import solution
+from src.main.java.testCodi.a02OddOccurrencesInArray.solution import solution_odd_occurrences
 import pytest
 from typing import List
 
@@ -9,5 +9,5 @@ from typing import List
         ([9, 3, 9, 3, 9, 7, 9], 7),
     ],
 )
-def test_odd_occurencyes_in_array(input_array: List[int], expected_result: int):
-    assert expected_result == solution(input_array)
+def test_odd_occurrences_in_array(input_array: List[int], expected_result: int):
+    assert expected_result == solution_odd_occurrences(input_array)
