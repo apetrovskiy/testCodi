@@ -10,11 +10,11 @@ import "strings"
 // fmt.Println("this is a debug message")
 
 /*func main() {
-	inaryGapSolution01(1041)
+    inaryGapSolution01(1041)
 }*/
 
 // The binary gap solution
-func Solution01(N int) int {
+func SolutionBinaryGap(N int) int {
 	// write your code in Go 1.4
 	temp1 := strconv.Itoa(N)
 	temp2, _ := strconv.ParseInt(temp1, 10, 64)

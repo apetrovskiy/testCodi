@@ -1,31 +1,23 @@
 # you can write to stdout for debugging purposes, e.g.
 # puts "this is a debug message"
 
-def solution(n)
-    # write your code in Ruby 2.2
+def solution_binary_gap(n)
+  # write your code in Ruby 2.2
   binary = n.to_s(2)
-  # puts "original: " + n.to_s
-  # puts "original binary: " + binary
   max_gap = 0
   previous_one = binary.index('1')
-  if -1 == previous_one
-    return max_gap
-  end
-  binary = binary[previous_one + 1..-1]
-  # puts "binary: " + binary
+  return max_gap if previous_one == -1
 
-  while binary.length > 0
-    # puts binary
+  binary = binary[previous_one + 1..-1]
+
+  while binary.length.positive?
     current_one = binary.index('1')
-    if nil != current_one
-      if max_gap < current_one
-        max_gap = current_one
-      end
+    if current_one != nil
+      max_gap = current_one if max_gap < current_one
       binary = binary[current_one + 1..-1]
-      previous_one = current_one
     else
       break
     end
   end
-  return max_gap
+  max_gap
 end

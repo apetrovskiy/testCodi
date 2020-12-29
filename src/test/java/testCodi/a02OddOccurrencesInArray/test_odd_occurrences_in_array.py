@@ -7,7 +7,9 @@ from typing import List
     "input_array,expected_result",
     [
         ([9, 3, 9, 3, 9, 7, 9], 7),
+        ([2, 2, 3, 3, 4], 4),
+        ([42], 42)
     ],
 )
-def test_odd_occurencyes_in_array(input_array: List[int], expected_result: int):
+def test_odd_occurrences_in_array(input_array: List[int], expected_result: int):
     assert expected_result == solution(input_array)
