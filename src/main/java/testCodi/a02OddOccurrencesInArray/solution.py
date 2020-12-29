@@ -6,7 +6,7 @@ from typing import List
 
 def solution(A: List[int]) -> int:
     # write your code in Python 3.6
-    '''
+    """
     candidates = []
     for item in A:
         if item in candidates:
@@ -14,7 +14,7 @@ def solution(A: List[int]) -> int:
         else:
             candidates.append(item)
     return candidates[0]
-    '''
+    """
     '''
     half_length = int(len(A) / 2)
     first_half_sum = 0
