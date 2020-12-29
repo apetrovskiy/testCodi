@@ -15,6 +15,7 @@ def solution(A: List[int]) -> int:
             candidates.append(item)
     return candidates[0]
     '''
+    '''
     half_length = int(len(A) / 2)
     first_half_sum = 0
     second_half_sum = 0
@@ -22,4 +23,13 @@ def solution(A: List[int]) -> int:
         first_half_sum += A[index]
     for index in range(half_length, len(A)):
         second_half_sum += A[index]
+    return abs(first_half_sum - second_half_sum)
+    '''
+    A.sort()
+    first_half_sum = 0
+    second_half_sum = 0
+    for index in range(0, len(A), 2):
+        first_half_sum += A[index]
+        if index + 1 < len(A):
+            second_half_sum += A[index + 1]
     return abs(first_half_sum - second_half_sum)
