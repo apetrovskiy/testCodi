@@ -11,15 +11,15 @@ import "sort"
 func Solution(A []int) int {
     // write your code in Go 1.4
     sort.Ints(A)
-    var first_half_sum = 0
-    var second_half_sum = 0
+    var firstHalfSum = 0
+    var secondHalfSum = 0
     for i := 0; i < len(A); i += 2 {
-        first_half_sum += A[i]
+        firstHalfSum += A[i]
         if i + 1 < len(A) {
-            second_half_sum += A[i + 1]
+            secondHalfSum += A[i + 1]
         }
     }
-    var difference = first_half_sum - second_half_sum
+    var difference = firstHalfSum - secondHalfSum
     if difference > 0 {
         return difference
     }
