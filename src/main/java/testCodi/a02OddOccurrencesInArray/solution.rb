@@ -12,7 +12,7 @@ def solution(a)
     if index + 1 < a.length
       second_half_sum += a[index + 1]
     end
-    index = index + 2
+    index += 2
   end
   (first_half_sum - second_half_sum).abs()
 end
