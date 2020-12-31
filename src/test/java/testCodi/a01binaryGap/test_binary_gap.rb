@@ -1,4 +1,3 @@
-require 'test/unit'
 require 'rspec'
 require 'rspec/autorun'
 require_relative('../../../../../src/main/java/testCodi/a01binaryGap/solution')
