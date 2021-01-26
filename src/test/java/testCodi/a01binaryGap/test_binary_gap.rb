@@ -21,7 +21,7 @@ RSpec.describe 'binary gap' do
       it "when the input is #{input}" do
         # let(:input_value) { input }
         actual_result = solution_binary_gap(input)
-        expect(expected_output).to eql solution_binary_gap(input)
+        expect(actual_result).to eql expected_output
         expect(actual_result).to equal(expected_output)
         expect(actual_result).to be == expected_output
       end

@@ -37,7 +37,7 @@ RSpec.describe 'tape equilibrium' do
     ].each do |input, expected_output|
       it "when the input is #{input}" do
         actual_result = tape_equilibrium(input)
-        expect(tape_equilibrium(input)).to eql expected_output
+        expect(actual_result).to eql expected_output
         # expect(actual_result).to equal(expected_output)
         expect(actual_result).to be == expected_output
       end
