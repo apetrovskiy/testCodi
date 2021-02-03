@@ -3,4 +3,4 @@
 
 def solution(N, A):
     # write your code in Python 3.6
-    pass
+    return []
