@@ -1,7 +1,7 @@
 // you can write to stdout for debugging purposes, e.g.
 // console.log('this is a debug message');
 
-function solution_perm_missing_element(A) {
+function perm_missing_element(A) {
     // write your code in JavaScript (Node.js 8.9.4)
     if (A.length == 0) {
         return 1;
@@ -20,3 +20,5 @@ function solution_perm_missing_element(A) {
     }
     return 0;
 }
+
+module.exports = { perm_missing_element }

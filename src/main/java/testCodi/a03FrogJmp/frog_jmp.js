@@ -19,4 +19,5 @@ function sum(a, b) {
 }
 // module.exports = sum;
 // module.exports = solution_frog_jmp;
-export { sum, solution_frog_jmp };
+// export { sum, solution_frog_jmp };
+module.exports = { sum, solution_frog_jmp }
