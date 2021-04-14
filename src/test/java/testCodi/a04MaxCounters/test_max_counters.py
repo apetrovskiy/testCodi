@@ -9,5 +9,6 @@ test_data = [
 
 
 @pytest.mark.parametrize("number,input_array,expected_result", test_data)
-def test_max_counters(number: int, input_array: List[int], expected_result: List[int]):
+def test_max_counters(number: int,
+                      input_array: List[int], expected_result: List[int]):
     assert expected_result == solution(number, input_array)

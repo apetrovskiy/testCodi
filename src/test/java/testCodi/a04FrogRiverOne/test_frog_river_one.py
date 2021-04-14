@@ -1,4 +1,5 @@
-from src.main.java.testCodi.a04FrogRiverOne.solution_frog_river_one import solution
+from src.main.java.testCodi.a04FrogRiverOne.solution_frog_river_one \
+    import solution
 from typing import List
 import pytest
 
@@ -10,5 +11,6 @@ test_data = [
 
 
 @pytest.mark.parametrize("number,input_array,expected_result", test_data)
-def test_frog_river_one(number: int, input_array: List[int], expected_result: int):
+def test_frog_river_one(number: int, input_array: List[int],
+                        expected_result: int):
     assert expected_result == solution(number, input_array)

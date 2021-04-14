@@ -13,5 +13,5 @@ from src.main.java.testCodi.a03FrogJmp.frog_jmp import solution_frog_jmp
         (100, 100, 2, 0)
     ],
 )
-def test_frog_jmp(x: int, y: int, d:int, expected_result: int):
+def test_frog_jmp(x: int, y: int, d: int, expected_result: int):
     assert expected_result == solution_frog_jmp(x, y, d)

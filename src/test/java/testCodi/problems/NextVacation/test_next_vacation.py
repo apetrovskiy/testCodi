@@ -1,4 +1,5 @@
-from src.main.java.testCodi.problems.NextVacation.next_vacation import next_vacation
+from src.main.java.testCodi.problems.NextVacation.next_vacation \
+    import next_vacation
 from typing import List
 import pytest
 
