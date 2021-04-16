@@ -1,0 +1,59 @@
+{
+  "uid" : "9a82ea0409890cf4",
+  "name" : "test_solution_cyclic_rotation[input_array14-20]",
+  "fullName" : "src.test.java.testCodi.a03TapeEquilibrium.test_tape_equilibrium#test_solution_cyclic_rotation",
+  "historyId" : "4b3eb75344e1df7ce7d3552042d65d3b",
+  "time" : {
+    "start" : 1618554799988,
+    "stop" : 1618554799988,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.test.java.testCodi.a03TapeEquilibrium"
+  }, {
+    "name" : "suite",
+    "value" : "test_tape_equilibrium"
+  }, {
+    "name" : "host",
+    "value" : "fv-az235-465"
+  }, {
+    "name" : "thread",
+    "value" : "3093-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.testCodi.a03TapeEquilibrium.test_tape_equilibrium"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected_result",
+    "value" : "20"
+  }, {
+    "name" : "input_array",
+    "value" : "[-10, -20, -30, -40, 100]"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a82ea0409890cf4.json",
+  "parameterValues" : [ "20", "[-10, -20, -30, -40, 100]" ]
+}

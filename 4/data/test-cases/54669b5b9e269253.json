@@ -1,0 +1,65 @@
+{
+  "uid" : "54669b5b9e269253",
+  "name" : "test_frog_jmp[10-234342345-8-29292792]",
+  "fullName" : "src.test.java.testCodi.a03FrogJmp.test_frog_jmp#test_frog_jmp",
+  "historyId" : "1087c7b9e4539ebfb29ed4ad3b2882ae",
+  "time" : {
+    "start" : 1618554799905,
+    "stop" : 1618554799905,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.test.java.testCodi.a03FrogJmp"
+  }, {
+    "name" : "suite",
+    "value" : "test_frog_jmp"
+  }, {
+    "name" : "host",
+    "value" : "fv-az235-465"
+  }, {
+    "name" : "thread",
+    "value" : "3093-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.testCodi.a03FrogJmp.test_frog_jmp"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "d",
+    "value" : "8"
+  }, {
+    "name" : "expected_result",
+    "value" : "29292792"
+  }, {
+    "name" : "x",
+    "value" : "10"
+  }, {
+    "name" : "y",
+    "value" : "234342345"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "54669b5b9e269253.json",
+  "parameterValues" : [ "8", "29292792", "10", "234342345" ]
+}
