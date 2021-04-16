@@ -1,0 +1,79 @@
+{
+  "uid" : "c47b2a2320db35df",
+  "name" : "test_odd_occurrences_in_array[input_array2-42]",
+  "fullName" : "src.test.java.testCodi.a02OddOccurrencesInArray.test_odd_occurrences_in_array#test_odd_occurrences_in_array",
+  "historyId" : "ea799ac8ec380d8888513eacf10fe9b1",
+  "time" : {
+    "start" : 1618611999333,
+    "stop" : 1618611999333,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.test.java.testCodi.a02OddOccurrencesInArray"
+  }, {
+    "name" : "suite",
+    "value" : "test_odd_occurrences_in_array"
+  }, {
+    "name" : "host",
+    "value" : "fv-az278-331"
+  }, {
+    "name" : "thread",
+    "value" : "3169-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.testCodi.a02OddOccurrencesInArray.test_odd_occurrences_in_array"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected_result",
+    "value" : "42"
+  }, {
+    "name" : "input_array",
+    "value" : "[42]"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "31c733ea3a066f4b",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/4//#testresult/31c733ea3a066f4b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1618554799898,
+          "stop" : 1618554799898,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "c47b2a2320db35df.json",
+  "parameterValues" : [ "42", "[42]" ]
+}

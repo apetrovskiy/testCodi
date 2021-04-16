@@ -1,0 +1,79 @@
+{
+  "uid" : "5c4daff77be1be16",
+  "name" : "test_perm_missing_element[input_array7-2]",
+  "fullName" : "src.test.java.testCodi.a03PermMissingElem.test_perm_missing_element#test_perm_missing_element",
+  "historyId" : "df0f8c535424ec4d2a6957fd26868870",
+  "time" : {
+    "start" : 1618611999368,
+    "stop" : 1618611999368,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.test.java.testCodi.a03PermMissingElem"
+  }, {
+    "name" : "suite",
+    "value" : "test_perm_missing_element"
+  }, {
+    "name" : "host",
+    "value" : "fv-az278-331"
+  }, {
+    "name" : "thread",
+    "value" : "3169-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.testCodi.a03PermMissingElem.test_perm_missing_element"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected_result",
+    "value" : "2"
+  }, {
+    "name" : "input_array",
+    "value" : "[3, 1]"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "a3195050530fa9b3",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/4//#testresult/a3195050530fa9b3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1618554799939,
+          "stop" : 1618554799939,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "5c4daff77be1be16.json",
+  "parameterValues" : [ "2", "[3, 1]" ]
+}

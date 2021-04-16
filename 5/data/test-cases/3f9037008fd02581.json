@@ -1,0 +1,79 @@
+{
+  "uid" : "3f9037008fd02581",
+  "name" : "test_solution_binary_gap[1610612737-28]",
+  "fullName" : "src.test.java.testCodi.a01binaryGap.test_solution_binary_gap#test_solution_binary_gap",
+  "historyId" : "805ed06ae922ad7fe47c9e16441ae410",
+  "time" : {
+    "start" : 1618611999318,
+    "stop" : 1618611999318,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.test.java.testCodi.a01binaryGap"
+  }, {
+    "name" : "suite",
+    "value" : "test_solution_binary_gap"
+  }, {
+    "name" : "host",
+    "value" : "fv-az278-331"
+  }, {
+    "name" : "thread",
+    "value" : "3169-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.testCodi.a01binaryGap.test_solution_binary_gap"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected_result",
+    "value" : "28"
+  }, {
+    "name" : "input_number",
+    "value" : "1610612737"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "81c8d5ffb8040da3",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/4//#testresult/81c8d5ffb8040da3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1618554799881,
+          "stop" : 1618554799881,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "3f9037008fd02581.json",
+  "parameterValues" : [ "28", "1610612737" ]
+}

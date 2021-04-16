@@ -1,0 +1,85 @@
+{
+  "uid" : "dd90e9599d81da4a",
+  "name" : "test_frog_jmp[10-85-30-3]",
+  "fullName" : "src.test.java.testCodi.a03FrogJmp.test_frog_jmp#test_frog_jmp",
+  "historyId" : "7108f71827376f2211c7798f8674cb67",
+  "time" : {
+    "start" : 1618611999336,
+    "stop" : 1618611999336,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.test.java.testCodi.a03FrogJmp"
+  }, {
+    "name" : "suite",
+    "value" : "test_frog_jmp"
+  }, {
+    "name" : "host",
+    "value" : "fv-az278-331"
+  }, {
+    "name" : "thread",
+    "value" : "3169-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.testCodi.a03FrogJmp.test_frog_jmp"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "d",
+    "value" : "30"
+  }, {
+    "name" : "expected_result",
+    "value" : "3"
+  }, {
+    "name" : "x",
+    "value" : "10"
+  }, {
+    "name" : "y",
+    "value" : "85"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "eb4499de51098804",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/4//#testresult/eb4499de51098804",
+        "status" : "passed",
+        "time" : {
+          "start" : 1618554799902,
+          "stop" : 1618554799902,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "dd90e9599d81da4a.json",
+  "parameterValues" : [ "30", "3", "10", "85" ]
+}

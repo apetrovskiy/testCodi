@@ -1,0 +1,82 @@
+{
+  "uid" : "b9f113856bf14e0f",
+  "name" : "test_solution_cyclic_rotation[input_array1-1-expected_result1]",
+  "fullName" : "src.test.java.testCodi.a02CyclicRotation.test_solution_cyclic_rotation#test_solution_cyclic_rotation",
+  "historyId" : "aab9c8631f14c170986a9893455178a4",
+  "time" : {
+    "start" : 1618611999323,
+    "stop" : 1618611999323,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.test.java.testCodi.a02CyclicRotation"
+  }, {
+    "name" : "suite",
+    "value" : "test_solution_cyclic_rotation"
+  }, {
+    "name" : "host",
+    "value" : "fv-az278-331"
+  }, {
+    "name" : "thread",
+    "value" : "3169-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.testCodi.a02CyclicRotation.test_solution_cyclic_rotation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected_result",
+    "value" : "[0, 0, 0]"
+  }, {
+    "name" : "input_array",
+    "value" : "[0, 0, 0]"
+  }, {
+    "name" : "shift",
+    "value" : "1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "9bf25d5db1c3a92d",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/4//#testresult/9bf25d5db1c3a92d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1618554799887,
+          "stop" : 1618554799887,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "b9f113856bf14e0f.json",
+  "parameterValues" : [ "[0, 0, 0]", "[0, 0, 0]", "1" ]
+}
