@@ -1,3 +1,4 @@
+package solution_test
 // package a03frogjmp
 
 // import "testing"

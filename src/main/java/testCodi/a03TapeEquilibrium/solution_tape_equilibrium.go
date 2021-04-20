@@ -9,4 +9,5 @@ package solution
 
 func Solution(A []int) int {
     // write your code in Go 1.4
+    return 0
 }
