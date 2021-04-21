@@ -1,0 +1,101 @@
+{
+  "uid" : "53dfd83d2d9cf3f",
+  "name" : "[10] 6, 0",
+  "fullName" : "testCodi.a01BinaryGap.SolutionTest.testBinaryGapJava",
+  "historyId" : "fb0eccafbd8eed19a782bfd1df9f1d19",
+  "time" : {
+    "start" : 1618979703491,
+    "stop" : 1618979703493,
+    "duration" : 2
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1618979703492,
+      "stop" : 1618979703492,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az231-651"
+  }, {
+    "name" : "thread",
+    "value" : "5882@fv-az231-651.ForkJoinPool-1-worker-3(16)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "testCodi.a01BinaryGap.SolutionTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testCodi.a01BinaryGap.SolutionTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testBinaryGapJava"
+  }, {
+    "name" : "suite",
+    "value" : "testCodi.a01BinaryGap.SolutionTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "4bdcc8c1bd19d119",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/7//#testresult/4bdcc8c1bd19d119",
+        "status" : "passed",
+        "time" : {
+          "start" : 1618949042430,
+          "stop" : 1618949042434,
+          "duration" : 4
+        }
+      }, {
+        "uid" : "8e2891509ad4349c",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/6//#testresult/8e2891509ad4349c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1618948424716,
+          "stop" : 1618948424723,
+          "duration" : 7
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "53dfd83d2d9cf3f.json",
+  "parameterValues" : [ ]
+}
