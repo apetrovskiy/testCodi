@@ -1,6 +1,6 @@
-from src.main.java.testCodi.a04PermCheck.perm_check import solution
-from typing import List
 import pytest
+from typing import List
+from src.main.java.testCodi.a04PermCheck.perm_check import solution
 
 
 test_data = [
