@@ -1,0 +1,146 @@
+{
+  "uid" : "c1f470ee174adf95",
+  "name" : "[19] 561892, 3",
+  "fullName" : "testCodi.a01BinaryGap.SolutionTest.testBinaryGapKotlin",
+  "historyId" : "9e87f06c2e58764b1feb2a5ae5e403ed",
+  "time" : {
+    "start" : 1619397614771,
+    "stop" : 1619397614773,
+    "duration" : 2
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1619397614771,
+      "stop" : 1619397614771,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az193-886"
+  }, {
+    "name" : "thread",
+    "value" : "3073@fv-az193-886.ForkJoinPool-1-worker-3(16)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "testCodi.a01BinaryGap.SolutionTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testCodi.a01BinaryGap.SolutionTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testBinaryGapKotlin"
+  }, {
+    "name" : "suite",
+    "value" : "testCodi.a01BinaryGap.SolutionTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "e9041552d4022e5e",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/12//#testresult/e9041552d4022e5e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619385697047,
+          "stop" : 1619385697048,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "9bc4ee8bcf276664",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/11//#testresult/9bc4ee8bcf276664",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619383312148,
+          "stop" : 1619383312149,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "7e935b3c9b00b683",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/10//#testresult/7e935b3c9b00b683",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619383192314,
+          "stop" : 1619383192315,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "cab877128525c59f",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/9//#testresult/cab877128525c59f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619266399814,
+          "stop" : 1619266399815,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "1f8d6d0528672d18",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/8//#testresult/1f8d6d0528672d18",
+        "status" : "passed",
+        "time" : {
+          "start" : 1618979703871,
+          "stop" : 1618979703872,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "80a1b13de3b26be8",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/7//#testresult/80a1b13de3b26be8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1618949042849,
+          "stop" : 1618949042850,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "b0876a7a559beaa",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/6//#testresult/b0876a7a559beaa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1618948425295,
+          "stop" : 1618948425296,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "c1f470ee174adf95.json",
+  "parameterValues" : [ ]
+}
