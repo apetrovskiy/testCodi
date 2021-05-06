@@ -1,0 +1,196 @@
+{
+  "uid" : "7dca22d5756de6fe",
+  "name" : "test_next_vacation[input1-3]",
+  "fullName" : "src.test.java.testCodi.problems.NextVacation.test_next_vacation#test_next_vacation",
+  "historyId" : "128cd5185d2bc82df34934406676d0b4",
+  "time" : {
+    "start" : 1620336884590,
+    "stop" : 1620336884591,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 3 == 0\n +  where 0 = next_vacation([2, 1, 1, 3, 2, 1, ...])",
+  "statusTrace" : "input = [2, 1, 1, 3, 2, 1, ...], expected_result = 3\n\n    @pytest.mark.parametrize(\"input,expected_result\", test_data)\n    def test_next_vacation(input: List[int], expected_result: int):\n>       assert expected_result == next_vacation(input)\nE       assert 3 == 0\nE        +  where 0 = next_vacation([2, 1, 1, 3, 2, 1, ...])\n\nsrc/test/java/testCodi/problems/NextVacation/test_next_vacation.py:17: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.test.java.testCodi.problems.NextVacation"
+  }, {
+    "name" : "suite",
+    "value" : "test_next_vacation"
+  }, {
+    "name" : "host",
+    "value" : "fv-az269-349"
+  }, {
+    "name" : "thread",
+    "value" : "2378-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.testCodi.problems.NextVacation.test_next_vacation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected_result",
+    "value" : "3"
+  }, {
+    "name" : "input",
+    "value" : "[2, 1, 1, 3, 2, 1, 1, 3]"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 4,
+        "broken" : 0,
+        "skipped" : 9,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 13
+      },
+      "items" : [ {
+        "uid" : "48003bf79e05858e",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/15//#testresult/48003bf79e05858e",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 3 == 0\n +  where 0 = next_vacation([2, 1, 1, 3, 2, 1, ...])",
+        "time" : {
+          "start" : 1620336014234,
+          "stop" : 1620336014234,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "22f3fdcc6baa26d9",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/14//#testresult/22f3fdcc6baa26d9",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 3 == 0\n +  where 0 = next_vacation([2, 1, 1, 3, 2, 1, ...])",
+        "time" : {
+          "start" : 1619806726173,
+          "stop" : 1619806726173,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "a8c3a908354d6582",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/13//#testresult/a8c3a908354d6582",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 3 == 0\n +  where 0 = next_vacation([2, 1, 1, 3, 2, 1, ...])",
+        "time" : {
+          "start" : 1619397509146,
+          "stop" : 1619397509146,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "cb257a3f078777df",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/12//#testresult/cb257a3f078777df",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1619385563593,
+          "stop" : 1619385563593,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "31c05f28f77404f5",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/11//#testresult/31c05f28f77404f5",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1619383200446,
+          "stop" : 1619383200446,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "a47eea8793ab7920",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/10//#testresult/a47eea8793ab7920",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1619383071271,
+          "stop" : 1619383071271,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "dcb0189a3648eabe",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/9//#testresult/dcb0189a3648eabe",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1619266293615,
+          "stop" : 1619266293615,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "91f6d834172ad7c3",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/8//#testresult/91f6d834172ad7c3",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1618979513942,
+          "stop" : 1618979513943,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "6ecce01340946aa5",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/7//#testresult/6ecce01340946aa5",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1618948891528,
+          "stop" : 1618948891528,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "639de7e2eae40951",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/6//#testresult/639de7e2eae40951",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1618948213641,
+          "stop" : 1618948213641,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "9630b9f976be4598",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/5//#testresult/9630b9f976be4598",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1618611999427,
+          "stop" : 1618611999427,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "6cb72bd786d853fd",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/4//#testresult/6cb72bd786d853fd",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1618554800007,
+          "stop" : 1618554800007,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "7dca22d5756de6fe.json",
+  "parameterValues" : [ "3", "[2, 1, 1, 3, 2, 1, 1, 3]" ]
+}
