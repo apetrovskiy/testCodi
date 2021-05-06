@@ -1,0 +1,73 @@
+{
+  "uid" : "6c634cd64bf57aca",
+  "name" : "test02",
+  "fullName" : "src/main/java/testCodi/a03PermMissingElem/solution_perm_missing_element.test.js.test02",
+  "historyId" : "368c190b237217350596bd8f24c9239e",
+  "time" : {
+    "start" : 1620336074353,
+    "stop" : 1620336074354,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "TypeError: perm_missing_element is not a function",
+  "statusTrace" : "TypeError: perm_missing_element is not a function\n                    at Object.<anonymous> (/home/runner/work/testCodi/testCodi/src/main/java/testCodi/a03PermMissingElem/solution_perm_missing_element.test.js:5:12)\n                    at Object.asyncJestTest (/home/runner/work/testCodi/testCodi/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:106:37)\n                    at /home/runner/work/testCodi/testCodi/node_modules/jest-jasmine2/build/queueRunner.js:45:12\n                    at new Promise (<anonymous>)\n                    at mapper (/home/runner/work/testCodi/testCodi/node_modules/jest-jasmine2/build/queueRunner.js:28:19)\n                    at /home/runner/work/testCodi/testCodi/node_modules/jest-jasmine2/build/queueRunner.js:75:41",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "src/main/java/testCodi/a03PermMissingElem/solution_perm_missing_element.test.js"
+  }, {
+    "name" : "testClass",
+    "value" : "src/main/java/testCodi/a03PermMissingElem/solution_perm_missing_element.test.js"
+  }, {
+    "name" : "testMethod",
+    "value" : "test02"
+  }, {
+    "name" : "package",
+    "value" : "src/main/java/testCodi/a03PermMissingElem/solution_perm_missing_element.test.js"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 2,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "e3125e08affc6311",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/14//#testresult/e3125e08affc6311",
+        "status" : "failed",
+        "statusDetails" : "TypeError: perm_missing_element is not a function",
+        "time" : {
+          "start" : 1619806725634,
+          "stop" : 1619806725635,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "6c634cd64bf57aca.json",
+  "parameterValues" : [ ]
+}
