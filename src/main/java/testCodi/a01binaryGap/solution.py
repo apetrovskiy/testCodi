@@ -17,5 +17,5 @@ def solution(N):
             binary = binary[current_one + 1:]
         else:
             break
-        
+
     return max_gap

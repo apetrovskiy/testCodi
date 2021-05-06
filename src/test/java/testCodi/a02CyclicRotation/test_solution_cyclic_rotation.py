@@ -11,5 +11,6 @@ from src.main.java.testCodi.a02CyclicRotation.solution import solution
         ([1, 2, 3, 4], 4, [1, 2, 3, 4]),
     ],
 )
-def test_solution_cyclic_rotation(input_array: List[int], shift: int, expected_result: List[int]):
+def test_solution_cyclic_rotation(input_array: List[int],
+                                  shift: int, expected_result: List[int]):
     assert expected_result == solution(input_array, shift)

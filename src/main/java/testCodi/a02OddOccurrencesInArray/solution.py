@@ -4,7 +4,7 @@
 from typing import List
 
 
-def solution(A: List[int]) -> int:
+def solution_odd_occurrences(A: List[int]) -> int:
     # write your code in Python 3.6
     """
     candidates = []

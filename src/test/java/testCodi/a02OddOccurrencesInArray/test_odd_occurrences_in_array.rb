@@ -13,7 +13,7 @@ RSpec.describe 'odd occurrences in array' do
     ].each do |input, expected_output|
       it "when the input is #{input}" do
         actual_result = odd_occurrences_in_array(input)
-        expect(expected_output).to eql odd_occurrences_in_array(input)
+        expect(actual_result).to eql expected_output
         expect(actual_result).to equal(expected_output)
         expect(actual_result).to be == expected_output
       end
