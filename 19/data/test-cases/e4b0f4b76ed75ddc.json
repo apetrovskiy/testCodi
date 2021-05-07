@@ -1,0 +1,113 @@
+{
+  "uid" : "e4b0f4b76ed75ddc",
+  "name" : "adds 1 + 2 to equal 3",
+  "fullName" : "src/main/java/testCodi/a03FrogJmp/frog_jmp.test.js.adds 1 + 2 to equal 3",
+  "historyId" : "1c869f116b235e0c5cbb7c2fb640e145",
+  "time" : {
+    "start" : 1620396932869,
+    "stop" : 1620396932870,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "TypeError: sum is not a function",
+  "statusTrace" : "TypeError: sum is not a function\n                    at Object.<anonymous> (/home/runner/work/testCodi/testCodi/src/main/java/testCodi/a03FrogJmp/frog_jmp.test.js:11:12)\n                    at Object.asyncJestTest (/home/runner/work/testCodi/testCodi/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:106:37)\n                    at /home/runner/work/testCodi/testCodi/node_modules/jest-jasmine2/build/queueRunner.js:45:12\n                    at new Promise (<anonymous>)\n                    at mapper (/home/runner/work/testCodi/testCodi/node_modules/jest-jasmine2/build/queueRunner.js:28:19)\n                    at /home/runner/work/testCodi/testCodi/node_modules/jest-jasmine2/build/queueRunner.js:75:41",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "src/main/java/testCodi/a03FrogJmp/frog_jmp.test.js"
+  }, {
+    "name" : "testClass",
+    "value" : "src/main/java/testCodi/a03FrogJmp/frog_jmp.test.js"
+  }, {
+    "name" : "testMethod",
+    "value" : "adds 1 + 2 to equal 3"
+  }, {
+    "name" : "package",
+    "value" : "src/main/java/testCodi/a03FrogJmp/frog_jmp.test.js"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 6,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 6
+      },
+      "items" : [ {
+        "uid" : "5d05250ed1b75a51",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/18//#testresult/5d05250ed1b75a51",
+        "status" : "failed",
+        "statusDetails" : "TypeError: sum is not a function",
+        "time" : {
+          "start" : 1620396300749,
+          "stop" : 1620396300749,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "a133288fc7e999af",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/17//#testresult/a133288fc7e999af",
+        "status" : "failed",
+        "statusDetails" : "TypeError: sum is not a function",
+        "time" : {
+          "start" : 1620392125471,
+          "stop" : 1620392125471,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "998b01963d7b670e",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/16//#testresult/998b01963d7b670e",
+        "status" : "failed",
+        "statusDetails" : "TypeError: sum is not a function",
+        "time" : {
+          "start" : 1620336864802,
+          "stop" : 1620336864803,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "e660743a62a1d9d3",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/15//#testresult/e660743a62a1d9d3",
+        "status" : "failed",
+        "statusDetails" : "TypeError: sum is not a function",
+        "time" : {
+          "start" : 1620336074018,
+          "stop" : 1620336074018,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "43a88bcf8a0872b0",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/14//#testresult/43a88bcf8a0872b0",
+        "status" : "failed",
+        "statusDetails" : "TypeError: sum is not a function",
+        "time" : {
+          "start" : 1619806725296,
+          "stop" : 1619806725297,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "e4b0f4b76ed75ddc.json",
+  "parameterValues" : [ ]
+}
