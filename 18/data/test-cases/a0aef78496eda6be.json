@@ -1,0 +1,103 @@
+{
+  "uid" : "a0aef78496eda6be",
+  "name" : "test01",
+  "fullName" : "src/main/java/testCodi/a03FrogJmp/frog_jmp.test.js.test01",
+  "historyId" : "f3ab42c2d600a48c1790eeee0cad410f",
+  "time" : {
+    "start" : 1620396300746,
+    "stop" : 1620396300748,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "TypeError: solution_frog_jmp is not a function",
+  "statusTrace" : "TypeError: solution_frog_jmp is not a function\n                    at Object.<anonymous> (/home/runner/work/testCodi/testCodi/src/main/java/testCodi/a03FrogJmp/frog_jmp.test.js:7:12)\n                    at Object.asyncJestTest (/home/runner/work/testCodi/testCodi/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:106:37)\n                    at /home/runner/work/testCodi/testCodi/node_modules/jest-jasmine2/build/queueRunner.js:45:12\n                    at new Promise (<anonymous>)\n                    at mapper (/home/runner/work/testCodi/testCodi/node_modules/jest-jasmine2/build/queueRunner.js:28:19)\n                    at /home/runner/work/testCodi/testCodi/node_modules/jest-jasmine2/build/queueRunner.js:75:41",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "src/main/java/testCodi/a03FrogJmp/frog_jmp.test.js"
+  }, {
+    "name" : "testClass",
+    "value" : "src/main/java/testCodi/a03FrogJmp/frog_jmp.test.js"
+  }, {
+    "name" : "testMethod",
+    "value" : "test01"
+  }, {
+    "name" : "package",
+    "value" : "src/main/java/testCodi/a03FrogJmp/frog_jmp.test.js"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 5,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "d4176da649c5be13",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/17//#testresult/d4176da649c5be13",
+        "status" : "failed",
+        "statusDetails" : "TypeError: solution_frog_jmp is not a function",
+        "time" : {
+          "start" : 1620392125468,
+          "stop" : 1620392125471,
+          "duration" : 3
+        }
+      }, {
+        "uid" : "5832c81d16606821",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/16//#testresult/5832c81d16606821",
+        "status" : "failed",
+        "statusDetails" : "TypeError: solution_frog_jmp is not a function",
+        "time" : {
+          "start" : 1620336864800,
+          "stop" : 1620336864802,
+          "duration" : 2
+        }
+      }, {
+        "uid" : "6c8dedd001582f7f",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/15//#testresult/6c8dedd001582f7f",
+        "status" : "failed",
+        "statusDetails" : "TypeError: solution_frog_jmp is not a function",
+        "time" : {
+          "start" : 1620336074016,
+          "stop" : 1620336074018,
+          "duration" : 2
+        }
+      }, {
+        "uid" : "1f97177dd5c722c",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/14//#testresult/1f97177dd5c722c",
+        "status" : "failed",
+        "statusDetails" : "TypeError: solution_frog_jmp is not a function",
+        "time" : {
+          "start" : 1619806725293,
+          "stop" : 1619806725296,
+          "duration" : 3
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "a0aef78496eda6be.json",
+  "parameterValues" : [ ]
+}
