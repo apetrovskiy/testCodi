@@ -11,12 +11,12 @@ import org.junit.jupiter.params.provider.MethodSource;
 
 public class SolutionTest {
     private SolutionJ cutJava;
-    private SolutionK cutKotlin;
+    private SolutionKt cutKotlin;
 
     @BeforeEach
     void setUp() {
         cutJava = new SolutionJ();
-        cutKotlin = new SolutionK();
+        cutKotlin = new SolutionKt();
     }
 
     @ParameterizedTest
