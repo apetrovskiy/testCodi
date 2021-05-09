@@ -1,0 +1,279 @@
+{
+  "uid" : "9dac8e6b51c6e3bd",
+  "name" : "test_frog_river_one[3-input_array1-2]",
+  "fullName" : "src.test.java.testCodi.a04FrogRiverOne.test_frog_river_one#test_frog_river_one",
+  "historyId" : "2a1bfb85f3d2556a1a70ab1bbbbf2658",
+  "time" : {
+    "start" : 1620562205007,
+    "stop" : 1620562205008,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 2 == 0\n +  where 0 = solution(3, [2, 1, 3])",
+  "statusTrace" : "number = 3, input_array = [2, 1, 3], expected_result = 2\n\n    @pytest.mark.parametrize(\"number,input_array,expected_result\", test_data)\n    def test_frog_river_one(number: int, input_array: List[int],\n                            expected_result: int):\n>       assert expected_result == solution(number, input_array)\nE       assert 2 == 0\nE        +  where 0 = solution(3, [2, 1, 3])\n\nsrc/test/java/testCodi/a04FrogRiverOne/test_frog_river_one.py:17: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.test.java.testCodi.a04FrogRiverOne"
+  }, {
+    "name" : "suite",
+    "value" : "test_frog_river_one"
+  }, {
+    "name" : "host",
+    "value" : "fv-az196-409"
+  }, {
+    "name" : "thread",
+    "value" : "2394-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.testCodi.a04FrogRiverOne.test_frog_river_one"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected_result",
+    "value" : "2"
+  }, {
+    "name" : "input_array",
+    "value" : "[2, 1, 3]"
+  }, {
+    "name" : "number",
+    "value" : "3"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 12,
+        "broken" : 0,
+        "skipped" : 9,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 21
+      },
+      "items" : [ {
+        "uid" : "634d7ae1c093a33c",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/23//#testresult/634d7ae1c093a33c",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 2 == 0\n +  where 0 = solution(3, [2, 1, 3])",
+        "time" : {
+          "start" : 1620562022448,
+          "stop" : 1620562022448,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "c028202fd04b4e08",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/22//#testresult/c028202fd04b4e08",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 2 == 0\n +  where 0 = solution(3, [2, 1, 3])",
+        "time" : {
+          "start" : 1620560828582,
+          "stop" : 1620560828582,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "450361c6c3b15ea8",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/21//#testresult/450361c6c3b15ea8",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 2 == 0\n +  where 0 = solution(3, [2, 1, 3])",
+        "time" : {
+          "start" : 1620560658025,
+          "stop" : 1620560658025,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "355cdc1acfe882c8",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/20//#testresult/355cdc1acfe882c8",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 2 == 0\n +  where 0 = solution(3, [2, 1, 3])",
+        "time" : {
+          "start" : 1620425138486,
+          "stop" : 1620425138486,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "c0c17ccd69cc8652",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/19//#testresult/c0c17ccd69cc8652",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 2 == 0\n +  where 0 = solution(3, [2, 1, 3])",
+        "time" : {
+          "start" : 1620396961901,
+          "stop" : 1620396961902,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "ff2e014b97b8a4e1",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/18//#testresult/ff2e014b97b8a4e1",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 2 == 0\n +  where 0 = solution(3, [2, 1, 3])",
+        "time" : {
+          "start" : 1620396304686,
+          "stop" : 1620396304686,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "351bedb47cf6ec44",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/17//#testresult/351bedb47cf6ec44",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 2 == 0\n +  where 0 = solution(3, [2, 1, 3])",
+        "time" : {
+          "start" : 1620392129268,
+          "stop" : 1620392129268,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "80fd0a1c5cabe171",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/16//#testresult/80fd0a1c5cabe171",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 2 == 0\n +  where 0 = solution(3, [2, 1, 3])",
+        "time" : {
+          "start" : 1620336884569,
+          "stop" : 1620336884569,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "b057f13ef6c23d53",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/15//#testresult/b057f13ef6c23d53",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 2 == 0\n +  where 0 = solution(3, [2, 1, 3])",
+        "time" : {
+          "start" : 1620336014214,
+          "stop" : 1620336014215,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "1456c0be63336fe1",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/14//#testresult/1456c0be63336fe1",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 2 == 0\n +  where 0 = solution(3, [2, 1, 3])",
+        "time" : {
+          "start" : 1619806726153,
+          "stop" : 1619806726153,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "1cca98345ff45ea5",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/13//#testresult/1cca98345ff45ea5",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 2 == 0\n +  where 0 = solution(3, [2, 1, 3])",
+        "time" : {
+          "start" : 1619397509124,
+          "stop" : 1619397509124,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "5c122a3d788445c4",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/12//#testresult/5c122a3d788445c4",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1619385563583,
+          "stop" : 1619385563583,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "106b44171cc84d35",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/11//#testresult/106b44171cc84d35",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1619383200436,
+          "stop" : 1619383200436,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "2bae3257ffd901a3",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/10//#testresult/2bae3257ffd901a3",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1619383071262,
+          "stop" : 1619383071262,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "635665c9594443db",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/9//#testresult/635665c9594443db",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1619266293606,
+          "stop" : 1619266293606,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "804b3dcb37ece152",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/8//#testresult/804b3dcb37ece152",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1618979513933,
+          "stop" : 1618979513933,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "a5e0748bad3c753f",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/7//#testresult/a5e0748bad3c753f",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1618948891520,
+          "stop" : 1618948891520,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "473ee83438ad5d24",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/6//#testresult/473ee83438ad5d24",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1618948213631,
+          "stop" : 1618948213631,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "c018ee0e30cc0b04",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/5//#testresult/c018ee0e30cc0b04",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1618611999417,
+          "stop" : 1618611999417,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "1fe2e865ac8f974",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/4//#testresult/1fe2e865ac8f974",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1618554799997,
+          "stop" : 1618554799997,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "9dac8e6b51c6e3bd.json",
+  "parameterValues" : [ "2", "[2, 1, 3]", "3" ]
+}
