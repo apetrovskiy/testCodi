@@ -1,0 +1,184 @@
+{
+  "uid" : "6f7bf2d8918fd845",
+  "name" : "test02",
+  "fullName" : "src/main/java/testCodi/a03PermMissingElem/solution_perm_missing_element.test.js.test02",
+  "historyId" : "368c190b237217350596bd8f24c9239e",
+  "time" : {
+    "start" : 1620674422635,
+    "stop" : 1620674422636,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "src/main/java/testCodi/a03PermMissingElem/solution_perm_missing_element.test.js"
+  }, {
+    "name" : "testClass",
+    "value" : "src/main/java/testCodi/a03PermMissingElem/solution_perm_missing_element.test.js"
+  }, {
+    "name" : "testMethod",
+    "value" : "test02"
+  }, {
+    "name" : "package",
+    "value" : "src/main/java/testCodi/a03PermMissingElem/solution_perm_missing_element.test.js"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 10,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 14
+      },
+      "items" : [ {
+        "uid" : "57d0493b0e767f35",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/26//#testresult/57d0493b0e767f35",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620661383411,
+          "stop" : 1620661383412,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "d32c97051dbbea16",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/25//#testresult/d32c97051dbbea16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620638057334,
+          "stop" : 1620638057335,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "2aff4b7bae9044c5",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/24//#testresult/2aff4b7bae9044c5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620562201071,
+          "stop" : 1620562201071,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "b00bcab7d6168a3b",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/23//#testresult/b00bcab7d6168a3b",
+        "status" : "failed",
+        "statusDetails" : "TypeError: perm_missing_element is not a function",
+        "time" : {
+          "start" : 1620562015810,
+          "stop" : 1620562015811,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "17f780327729f19e",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/22//#testresult/17f780327729f19e",
+        "status" : "failed",
+        "statusDetails" : "TypeError: perm_missing_element is not a function",
+        "time" : {
+          "start" : 1620560805487,
+          "stop" : 1620560805488,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "df5ba626efc31967",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/21//#testresult/df5ba626efc31967",
+        "status" : "failed",
+        "statusDetails" : "TypeError: perm_missing_element is not a function",
+        "time" : {
+          "start" : 1620560631732,
+          "stop" : 1620560631733,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "3866937448ea2ed6",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/20//#testresult/3866937448ea2ed6",
+        "status" : "failed",
+        "statusDetails" : "TypeError: perm_missing_element is not a function",
+        "time" : {
+          "start" : 1620425124995,
+          "stop" : 1620425124996,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "7f1f98f6f45295c2",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/19//#testresult/7f1f98f6f45295c2",
+        "status" : "failed",
+        "statusDetails" : "TypeError: perm_missing_element is not a function",
+        "time" : {
+          "start" : 1620396933214,
+          "stop" : 1620396933215,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "1d724b5b45bffb64",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/18//#testresult/1d724b5b45bffb64",
+        "status" : "failed",
+        "statusDetails" : "TypeError: perm_missing_element is not a function",
+        "time" : {
+          "start" : 1620396301050,
+          "stop" : 1620396301051,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "8c80fe65540421b3",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/17//#testresult/8c80fe65540421b3",
+        "status" : "failed",
+        "statusDetails" : "TypeError: perm_missing_element is not a function",
+        "time" : {
+          "start" : 1620392125834,
+          "stop" : 1620392125835,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "597e2b361bdc74f5",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/16//#testresult/597e2b361bdc74f5",
+        "status" : "failed",
+        "statusDetails" : "TypeError: perm_missing_element is not a function",
+        "time" : {
+          "start" : 1620336865140,
+          "stop" : 1620336865140,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "dd707a3a1aa47568",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/15//#testresult/dd707a3a1aa47568",
+        "status" : "failed",
+        "statusDetails" : "TypeError: perm_missing_element is not a function",
+        "time" : {
+          "start" : 1620336074353,
+          "stop" : 1620336074354,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "e3125e08affc6311",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/14//#testresult/e3125e08affc6311",
+        "status" : "failed",
+        "statusDetails" : "TypeError: perm_missing_element is not a function",
+        "time" : {
+          "start" : 1619806725634,
+          "stop" : 1619806725635,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "6f7bf2d8918fd845.json",
+  "parameterValues" : [ ]
+}

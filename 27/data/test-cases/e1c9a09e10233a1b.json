@@ -1,0 +1,279 @@
+{
+  "uid" : "e1c9a09e10233a1b",
+  "name" : "test_frog_river_one[5-input_array0-6]",
+  "fullName" : "src.test.java.testCodi.a04FrogRiverOne.test_frog_river_one#test_frog_river_one",
+  "historyId" : "f3a1c70a2fb00a3eca4c8dd20fe39598",
+  "time" : {
+    "start" : 1620674440525,
+    "stop" : 1620674440525,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 6 == 0\n +  where 0 = solution(5, [1, 3, 1, 4, 2, 3, ...])",
+  "statusTrace" : "number = 5, input_array = [1, 3, 1, 4, 2, 3, ...], expected_result = 6\n\n    @pytest.mark.parametrize(\"number,input_array,expected_result\", test_data)\n    def test_frog_river_one(number: int, input_array: List[int],\n                            expected_result: int):\n>       assert expected_result == solution(number, input_array)\nE       assert 6 == 0\nE        +  where 0 = solution(5, [1, 3, 1, 4, 2, 3, ...])\n\nsrc/test/java/testCodi/a04FrogRiverOne/test_frog_river_one.py:17: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.test.java.testCodi.a04FrogRiverOne"
+  }, {
+    "name" : "suite",
+    "value" : "test_frog_river_one"
+  }, {
+    "name" : "host",
+    "value" : "fv-az196-409"
+  }, {
+    "name" : "thread",
+    "value" : "2469-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.testCodi.a04FrogRiverOne.test_frog_river_one"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected_result",
+    "value" : "6"
+  }, {
+    "name" : "input_array",
+    "value" : "[1, 3, 1, 4, 2, 3, 5, 4]"
+  }, {
+    "name" : "number",
+    "value" : "5"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 15,
+        "broken" : 0,
+        "skipped" : 9,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 24
+      },
+      "items" : [ {
+        "uid" : "93646814896acd8a",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/26//#testresult/93646814896acd8a",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 6 == 0\n +  where 0 = solution(5, [1, 3, 1, 4, 2, 3, ...])",
+        "time" : {
+          "start" : 1620661383524,
+          "stop" : 1620661383524,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "73c882f4b8ccda2b",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/25//#testresult/73c882f4b8ccda2b",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 6 == 0\n +  where 0 = solution(5, [1, 3, 1, 4, 2, 3, ...])",
+        "time" : {
+          "start" : 1620638069897,
+          "stop" : 1620638069897,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "b2cd24d39ed0cfa7",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/24//#testresult/b2cd24d39ed0cfa7",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 6 == 0\n +  where 0 = solution(5, [1, 3, 1, 4, 2, 3, ...])",
+        "time" : {
+          "start" : 1620562204980,
+          "stop" : 1620562204981,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "aaac2c53068ab65b",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/23//#testresult/aaac2c53068ab65b",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 6 == 0\n +  where 0 = solution(5, [1, 3, 1, 4, 2, 3, ...])",
+        "time" : {
+          "start" : 1620562022419,
+          "stop" : 1620562022420,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "a59cb2c25e906fa8",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/22//#testresult/a59cb2c25e906fa8",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 6 == 0\n +  where 0 = solution(5, [1, 3, 1, 4, 2, 3, ...])",
+        "time" : {
+          "start" : 1620560828554,
+          "stop" : 1620560828554,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "7fed715d0d261476",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/21//#testresult/7fed715d0d261476",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 6 == 0\n +  where 0 = solution(5, [1, 3, 1, 4, 2, 3, ...])",
+        "time" : {
+          "start" : 1620560657999,
+          "stop" : 1620560657999,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "5b05721f6f200c76",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/20//#testresult/5b05721f6f200c76",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 6 == 0\n +  where 0 = solution(5, [1, 3, 1, 4, 2, 3, ...])",
+        "time" : {
+          "start" : 1620425138455,
+          "stop" : 1620425138456,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "7148ba1616140415",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/19//#testresult/7148ba1616140415",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 6 == 0\n +  where 0 = solution(5, [1, 3, 1, 4, 2, 3, ...])",
+        "time" : {
+          "start" : 1620396961875,
+          "stop" : 1620396961875,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "d87026f08d977eff",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/18//#testresult/d87026f08d977eff",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 6 == 0\n +  where 0 = solution(5, [1, 3, 1, 4, 2, 3, ...])",
+        "time" : {
+          "start" : 1620396304661,
+          "stop" : 1620396304662,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "4c276c7ce89a184b",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/17//#testresult/4c276c7ce89a184b",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 6 == 0\n +  where 0 = solution(5, [1, 3, 1, 4, 2, 3, ...])",
+        "time" : {
+          "start" : 1620392129242,
+          "stop" : 1620392129243,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "912193379c1c5b18",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/16//#testresult/912193379c1c5b18",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 6 == 0\n +  where 0 = solution(5, [1, 3, 1, 4, 2, 3, ...])",
+        "time" : {
+          "start" : 1620336884539,
+          "stop" : 1620336884539,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "cd0caf2d1867b65b",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/15//#testresult/cd0caf2d1867b65b",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 6 == 0\n +  where 0 = solution(5, [1, 3, 1, 4, 2, 3, ...])",
+        "time" : {
+          "start" : 1620336014189,
+          "stop" : 1620336014189,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "e991c9c7c996723d",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/14//#testresult/e991c9c7c996723d",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 6 == 0\n +  where 0 = solution(5, [1, 3, 1, 4, 2, 3, ...])",
+        "time" : {
+          "start" : 1619806726127,
+          "stop" : 1619806726127,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "bb028f57e7525e30",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/13//#testresult/bb028f57e7525e30",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 6 == 0\n +  where 0 = solution(5, [1, 3, 1, 4, 2, 3, ...])",
+        "time" : {
+          "start" : 1619397509089,
+          "stop" : 1619397509090,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "d8f5e36af5942116",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/12//#testresult/d8f5e36af5942116",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1619385563581,
+          "stop" : 1619385563581,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "90a6b6a9a6f31716",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/11//#testresult/90a6b6a9a6f31716",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1619383200434,
+          "stop" : 1619383200434,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "5940d9bfbb81fe74",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/10//#testresult/5940d9bfbb81fe74",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1619383071260,
+          "stop" : 1619383071260,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "6a63644c880de023",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/9//#testresult/6a63644c880de023",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1619266293604,
+          "stop" : 1619266293604,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "599d73c7cc258057",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/8//#testresult/599d73c7cc258057",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1618979513931,
+          "stop" : 1618979513931,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "2ef59543ffc76aa9",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/7//#testresult/2ef59543ffc76aa9",
+        "status" : "skipped",
+        "statusDetails" : "Skipped: TODO: no way of currently testing this",
+        "time" : {
+          "start" : 1618948891518,
+          "stop" : 1618948891518,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "e1c9a09e10233a1b.json",
+  "parameterValues" : [ "6", "[1, 3, 1, 4, 2, 3, 5, 4]", "5" ]
+}
