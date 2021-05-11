@@ -1,5 +1,3 @@
 package testCodi.a01BinaryGap
 
-class SolutionTest {
-    
-}
+class SolutionScalaTest {}
