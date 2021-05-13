@@ -1,0 +1,246 @@
+{
+  "uid" : "ef21a002cb821fac",
+  "name" : "adds 1 + 2 to equal 3",
+  "fullName" : "src/main/java/testCodi/a03FrogJmp/frog_jmp.test.js.adds 1 + 2 to equal 3",
+  "historyId" : "1c869f116b235e0c5cbb7c2fb640e145",
+  "time" : {
+    "start" : 1620950117999,
+    "stop" : 1620950117999,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "src/main/java/testCodi/a03FrogJmp/frog_jmp.test.js"
+  }, {
+    "name" : "testClass",
+    "value" : "src/main/java/testCodi/a03FrogJmp/frog_jmp.test.js"
+  }, {
+    "name" : "testMethod",
+    "value" : "adds 1 + 2 to equal 3"
+  }, {
+    "name" : "package",
+    "value" : "src/main/java/testCodi/a03FrogJmp/frog_jmp.test.js"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 9,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 12,
+        "unknown" : 0,
+        "total" : 21
+      },
+      "items" : [ {
+        "uid" : "91087b054918f0b6",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/33//#testresult/91087b054918f0b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620935177084,
+          "stop" : 1620935177085,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "803034dc0031c25",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/32//#testresult/803034dc0031c25",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620934861290,
+          "stop" : 1620934861290,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "d50b1fb93a96568a",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/31//#testresult/d50b1fb93a96568a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620917526572,
+          "stop" : 1620917526572,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "b32795d4ecc1bc13",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/30//#testresult/b32795d4ecc1bc13",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620893182868,
+          "stop" : 1620893182869,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "4c6031a4afa6e98a",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/29//#testresult/4c6031a4afa6e98a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620765302567,
+          "stop" : 1620765302567,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "cde9f9d258d384c4",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/28//#testresult/cde9f9d258d384c4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620722842607,
+          "stop" : 1620722842608,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "c1084abef027c21b",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/27//#testresult/c1084abef027c21b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620674422446,
+          "stop" : 1620674422447,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "40bd509641f0fdc",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/26//#testresult/40bd509641f0fdc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620661383201,
+          "stop" : 1620661383202,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "3ce761c6c81f9218",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/25//#testresult/3ce761c6c81f9218",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620638057142,
+          "stop" : 1620638057143,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "869981224811e823",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/24//#testresult/869981224811e823",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620562200891,
+          "stop" : 1620562200891,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "a1b1741abc47281",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/23//#testresult/a1b1741abc47281",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620562015457,
+          "stop" : 1620562015457,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "cc0268e272b92b00",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/22//#testresult/cc0268e272b92b00",
+        "status" : "failed",
+        "statusDetails" : "TypeError: sum is not a function",
+        "time" : {
+          "start" : 1620560805192,
+          "stop" : 1620560805193,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "6a2b9d932d5836c8",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/21//#testresult/6a2b9d932d5836c8",
+        "status" : "failed",
+        "statusDetails" : "TypeError: sum is not a function",
+        "time" : {
+          "start" : 1620560631402,
+          "stop" : 1620560631403,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "3f577a292ea1f567",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/20//#testresult/3f577a292ea1f567",
+        "status" : "failed",
+        "statusDetails" : "TypeError: sum is not a function",
+        "time" : {
+          "start" : 1620425124666,
+          "stop" : 1620425124666,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "e4b0f4b76ed75ddc",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/19//#testresult/e4b0f4b76ed75ddc",
+        "status" : "failed",
+        "statusDetails" : "TypeError: sum is not a function",
+        "time" : {
+          "start" : 1620396932869,
+          "stop" : 1620396932870,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "5d05250ed1b75a51",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/18//#testresult/5d05250ed1b75a51",
+        "status" : "failed",
+        "statusDetails" : "TypeError: sum is not a function",
+        "time" : {
+          "start" : 1620396300749,
+          "stop" : 1620396300749,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "a133288fc7e999af",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/17//#testresult/a133288fc7e999af",
+        "status" : "failed",
+        "statusDetails" : "TypeError: sum is not a function",
+        "time" : {
+          "start" : 1620392125471,
+          "stop" : 1620392125471,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "998b01963d7b670e",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/16//#testresult/998b01963d7b670e",
+        "status" : "failed",
+        "statusDetails" : "TypeError: sum is not a function",
+        "time" : {
+          "start" : 1620336864802,
+          "stop" : 1620336864803,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "e660743a62a1d9d3",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/15//#testresult/e660743a62a1d9d3",
+        "status" : "failed",
+        "statusDetails" : "TypeError: sum is not a function",
+        "time" : {
+          "start" : 1620336074018,
+          "stop" : 1620336074018,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "43a88bcf8a0872b0",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/14//#testresult/43a88bcf8a0872b0",
+        "status" : "failed",
+        "statusDetails" : "TypeError: sum is not a function",
+        "time" : {
+          "start" : 1619806725296,
+          "stop" : 1619806725297,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "ef21a002cb821fac.json",
+  "parameterValues" : [ ]
+}
