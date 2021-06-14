@@ -3,8 +3,8 @@
 
 function solution(A) {
     // write your code in JavaScript (Node.js 8.9.4)
-    let result = 1;
-    A.sort();
+    let result = 0;
+    A.sort((a, b) => a - b);
     for (let value of A) {
         if (value > 0) {
             if (value > result + 1) {
@@ -15,10 +15,7 @@ function solution(A) {
             }
         }
     }
-    if (result > 1) {
-        result += 1;
-    }
-    return result;
+    return result + 1;
 }
 
 module.exports = { solution };
