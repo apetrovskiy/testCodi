@@ -1,0 +1,66 @@
+{
+  "uid" : "5a892df2657373bc",
+  "name" : "input = 1,2,3, returns 4",
+  "fullName" : "solution([ 1, 2, 3, [length]: 3 ]) should equal 4.input = 1,2,3, returns 4",
+  "historyId" : "751b9cff48aec4e09d2c2a62195a47cc",
+  "time" : {
+    "start" : 1623667121011,
+    "stop" : 1623667121011,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "solution([ 1, 2, 3, [length]: 3 ]) should equal 4"
+  }, {
+    "name" : "testClass",
+    "value" : "solution([ 1, 2, 3, [length]: 3 ]) should equal 4"
+  }, {
+    "name" : "testMethod",
+    "value" : "input = 1,2,3, returns 4"
+  }, {
+    "name" : "package",
+    "value" : "solution([ 1, 2, 3, [length]: 3 ]) should equal 4"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "c5a0a41797efddfd",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/35//#testresult/c5a0a41797efddfd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623618243005,
+          "stop" : 1623618243005,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "5a892df2657373bc.json",
+  "parameterValues" : [ ]
+}

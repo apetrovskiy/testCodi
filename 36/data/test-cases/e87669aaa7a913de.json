@@ -1,0 +1,46 @@
+{
+  "uid" : "e87669aaa7a913de",
+  "name" : "input = 1,2,3,1,1,2,4,5,-1000000,1000000, returns 6",
+  "fullName" : "solution([ 1, 2, 3, 1, 1, 2, 4, 5, -1000000, 1000000, [length]: 10 ]) should equal 6.input = 1,2,3,1,1,2,4,5,-1000000,1000000, returns 6",
+  "historyId" : "19bb005da90d5e92e4159c30cb6836db",
+  "time" : {
+    "start" : 1623667121017,
+    "stop" : 1623667121017,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "solution([ 1, 2, 3, 1, 1, 2, 4, 5, -1000000, 1000000, [length]: 10 ]) should equal 6"
+  }, {
+    "name" : "testClass",
+    "value" : "solution([ 1, 2, 3, 1, 1, 2, 4, 5, -1000000, 1000000, [length]: 10 ]) should equal 6"
+  }, {
+    "name" : "testMethod",
+    "value" : "input = 1,2,3,1,1,2,4,5,-1000000,1000000, returns 6"
+  }, {
+    "name" : "package",
+    "value" : "solution([ 1, 2, 3, 1, 1, 2, 4, 5, -1000000, 1000000, [length]: 10 ]) should equal 6"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e87669aaa7a913de.json",
+  "parameterValues" : [ ]
+}
