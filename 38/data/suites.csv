@@ -1,0 +1,183 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.problems.NextVacation","test_next_vacation","","","","test_next_vacation[input2-6]",""
+"passed","Sun Jul 25 06:42:50 GMT 2021","Sun Jul 25 06:42:50 GMT 2021","2","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapJava","[6] 32, 0",""
+"passed","Sun Jul 25 06:39:51 GMT 2021","Sun Jul 25 06:39:51 GMT 2021","1","","solution([
+      279,  -950, -450, -554, 473,  354,  785,  -827, -156, -941, -563,
+      11,   -947, -603, 300,  90,   -559, 179,  619,  -987, 612,  396,
+      -320, -689, 915,  -327, -815, -807, 695,  208,  615,  460,  72,
+      947,  -243, 104,  659,  237,  724,  155,  409,  -909, -544, -421,
+      -841, -535, -798, -444, 272,  -270, -260, -581, -466, 874,  296,
+      218,  -658, 458,  -674, -241, 980,  280,  114,  369,  686,  552,
+      -542, -936, -369, -465, -578, 886,  753,  -371, 311,  -209, 830,
+      -82,  -470, -507, 123,  -475, 169,  796,  -201, -562, 996,  19,
+      -819, -906, -781, 255,  584,  -156, -873, -237, 993,  58,   943,
+      722,
+      [length]: 100
+    ]) should equal 1","","solution([
+      279,  -950, -450, -554, 473,  354,  785,  -827, -156, -941, -563,
+      11,   -947, -603, 300,  90,   -559, 179,  619,  -987, 612,  396,
+      -320, -689, 915,  -327, -815, -807, 695,  208,  615,  460,  72,
+      947,  -243, 104,  659,  237,  724,  155,  409,  -909, -544, -421,
+      -841, -535, -798, -444, 272,  -270, -260, -581, -466, 874,  296,
+      218,  -658, 458,  -674, -241, 980,  280,  114,  369,  686,  552,
+      -542, -936, -369, -465, -578, 886,  753,  -371, 311,  -209, 830,
+      -82,  -470, -507, 123,  -475, 169,  796,  -201, -562, 996,  19,
+      -819, -906, -781, 255,  584,  -156, -873, -237, 993,  58,   943,
+      722,
+      [length]: 100
+    ]) should equal 1","input = 279,-950,-450,-554,473,354,785,-827,-156,-941,-563,11,-947,-603,300,90,-559,179,619,-987,612,396,-320,-689,915,-327,-815,-807,695,208,615,460,72,947,-243,104,659,237,724,155,409,-909,-544,-421,-841,-535,-798,-444,272,-270,-260,-581,-466,874,296,218,-658,458,-674,-241,980,280,114,369,686,552,-542,-936,-369,-465,-578,886,753,-371,311,-209,830,-82,-470,-507,123,-475,169,796,-201,-562,996,19,-819,-906,-781,255,584,-156,-873,-237,993,58,943,722, returns 1","input = 279,-950,-450,-554,473,354,785,-827,-156,-941,-563,11,-947,-603,300,90,-559,179,619,-987,612,396,-320,-689,915,-327,-815,-807,695,208,615,460,72,947,-243,104,659,237,724,155,409,-909,-544,-421,-841,-535,-798,-444,272,-270,-260,-581,-466,874,296,218,-658,458,-674,-241,980,280,114,369,686,552,-542,-936,-369,-465,-578,886,753,-371,311,-209,830,-82,-470,-507,123,-475,169,796,-201,-562,996,19,-819,-906,-781,255,584,-156,-873,-237,993,58,943,722, returns 1",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03FrogJmp","test_frog_jmp","","","","test_frog_jmp[100-100-2-0]",""
+"failed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.problems.NextVacation","test_next_vacation","","","","test_next_vacation[input1-3]",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","1","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapJava","[25] 1073741825, 29",""
+"failed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a04MaxCounters","test_max_counters","","","","test_max_counters[5-input_array0-expected_result0]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a02OddOccurrencesInArray","test_odd_occurrences_in_array","","","","test_odd_occurrences_in_array[input_array0-7]",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","7","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapKotlin","[21] 6291457, 20",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","13","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapJava","[8] 5, 1",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","1","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapKotlin","[2] 529, 4",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03TapeEquilibrium","test_tape_equilibrium","","","","test_solution_cyclic_rotation[input_array4-4]",""
+"passed","Sun Jul 25 06:39:52 GMT 2021","Sun Jul 25 06:39:52 GMT 2021","0","","src/main/java/testCodi/a03FrogJmp/frog_jmp.test.js","","src/main/java/testCodi/a03FrogJmp/frog_jmp.test.js","test01","test01",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","27","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapKotlin","[18] 51712, 2",""
+"passed","Sun Jul 25 06:42:50 GMT 2021","Sun Jul 25 06:42:50 GMT 2021","6","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapJava","[4] 1041, 5",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","1","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapJava","[22] 74901729, 4",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","9","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapKotlin","[10] 6, 0",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","1","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapJava","[26] 1610612737, 28",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03TapeEquilibrium","test_tape_equilibrium","","","","test_solution_cyclic_rotation[input_array5-0]",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","5","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapKotlin","[19] 561892, 3",""
+"failed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a04FrogRiverOne","test_frog_river_one","","","","test_frog_river_one[3-input_array1-2]",""
+"passed","Sun Jul 25 06:42:50 GMT 2021","Sun Jul 25 06:42:50 GMT 2021","1","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapKotlin","[5] 15, 0",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","15","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapJava","[10] 6, 0",""
+"passed","Sun Jul 25 06:39:52 GMT 2021","Sun Jul 25 06:39:52 GMT 2021","1","","src/main/java/testCodi/a03PermMissingElem/solution_perm_missing_element.test.js","","src/main/java/testCodi/a03PermMissingElem/solution_perm_missing_element.test.js","test02","test02",""
+"passed","Sun Jul 25 06:39:51 GMT 2021","Sun Jul 25 06:39:51 GMT 2021","1","","solution([
+      116, 125, 198, 83,  0,   91,  52,  189, 54,  34,  92,  115,
+      1,   25,  165, 36,  141, 24,  124, 173, 80,  73,  95,  159,
+      4,   61,  3,   156, 28,  121, 148, 31,  76,  119, 122, 15,
+      72,  49,  26,  171, 81,  57,  10,  35,  117, 55,  40,  11,
+      161, 192, 130, 188, 12,  152, 43,  135, 62,  162, 111, 102,
+      140, 13,  59,  178, 160, 158, 32,  176, 17,  200, 145, 170,
+      150, 167, 71,  41,  181, 114, 154, 7,   42,  86,  82,  77,
+      68,  63,  106, 110, 120, 127, 69,  191, 21,  14,  90,  139,
+      46,  5,   79,  23,
+      [length]: 100
+    ]) should equal 2","","solution([
+      116, 125, 198, 83,  0,   91,  52,  189, 54,  34,  92,  115,
+      1,   25,  165, 36,  141, 24,  124, 173, 80,  73,  95,  159,
+      4,   61,  3,   156, 28,  121, 148, 31,  76,  119, 122, 15,
+      72,  49,  26,  171, 81,  57,  10,  35,  117, 55,  40,  11,
+      161, 192, 130, 188, 12,  152, 43,  135, 62,  162, 111, 102,
+      140, 13,  59,  178, 160, 158, 32,  176, 17,  200, 145, 170,
+      150, 167, 71,  41,  181, 114, 154, 7,   42,  86,  82,  77,
+      68,  63,  106, 110, 120, 127, 69,  191, 21,  14,  90,  139,
+      46,  5,   79,  23,
+      [length]: 100
+    ]) should equal 2","input = 116,125,198,83,0,91,52,189,54,34,92,115,1,25,165,36,141,24,124,173,80,73,95,159,4,61,3,156,28,121,148,31,76,119,122,15,72,49,26,171,81,57,10,35,117,55,40,11,161,192,130,188,12,152,43,135,62,162,111,102,140,13,59,178,160,158,32,176,17,200,145,170,150,167,71,41,181,114,154,7,42,86,82,77,68,63,106,110,120,127,69,191,21,14,90,139,46,5,79,23, returns 2","input = 116,125,198,83,0,91,52,189,54,34,92,115,1,25,165,36,141,24,124,173,80,73,95,159,4,61,3,156,28,121,148,31,76,119,122,15,72,49,26,171,81,57,10,35,117,55,40,11,161,192,130,188,12,152,43,135,62,162,111,102,140,13,59,178,160,158,32,176,17,200,145,170,150,167,71,41,181,114,154,7,42,86,82,77,68,63,106,110,120,127,69,191,21,14,90,139,46,5,79,23, returns 2",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","4","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapKotlin","[17] 1162, 3",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03TapeEquilibrium","test_tape_equilibrium","","","","test_solution_cyclic_rotation[input_array6-3]",""
+"passed","Sun Jul 25 06:42:50 GMT 2021","Sun Jul 25 06:42:50 GMT 2021","1","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapJava","[5] 15, 0",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","1","src.test.java.testCodi.a03TapeEquilibrium","test_tape_equilibrium","","","","test_solution_cyclic_rotation[input_array10-0]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03TapeEquilibrium","test_tape_equilibrium","","","","test_solution_cyclic_rotation[input_array15-21]",""
+"passed","Sun Jul 25 06:39:52 GMT 2021","Sun Jul 25 06:39:52 GMT 2021","0","","src/main/java/testCodi/a03FrogJmp/frog_jmp.test.js","","src/main/java/testCodi/a03FrogJmp/frog_jmp.test.js","adds 1 + 2 to equal 3","adds 1 + 2 to equal 3",""
+"passed","Sun Jul 25 06:39:48 GMT 2021","Sun Jul 25 06:39:48 GMT 2021","0","src.test.java.testCodi.a01binaryGap","test_solution_binary_gap","","","","test_solution_binary_gap[328-2]",""
+"passed","Sun Jul 25 06:39:48 GMT 2021","Sun Jul 25 06:39:48 GMT 2021","0","src.test.java.testCodi.a01binaryGap","test_solution_binary_gap","","","","test_solution_binary_gap[11-1]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","1","src.test.java.testCodi.a01binaryGap","test_solution_binary_gap","","","","test_solution_binary_gap[51712-2]",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","6","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapJava","[15] 19, 2",""
+"passed","Sun Jul 25 06:39:48 GMT 2021","Sun Jul 25 06:39:48 GMT 2021","0","src.test.java.testCodi.a01binaryGap","test_solution_binary_gap","","","","test_solution_binary_gap[9-2]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03TapeEquilibrium","test_tape_equilibrium","","","","test_solution_cyclic_rotation[input_array0-1]",""
+"passed","Sun Jul 25 06:39:48 GMT 2021","Sun Jul 25 06:39:48 GMT 2021","0","src.test.java.testCodi.a01binaryGap","test_solution_binary_gap","","","","test_solution_binary_gap[15-0]",""
+"passed","Sun Jul 25 06:39:51 GMT 2021","Sun Jul 25 06:39:51 GMT 2021","1","","solution([ -1, -3, [length]: 2 ]) should equal 1","","solution([ -1, -3, [length]: 2 ]) should equal 1","input = -1,-3, returns 1","input = -1,-3, returns 1",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03PermMissingElem","test_perm_missing_element","","","","test_perm_missing_element[input_array1-1]",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","1","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapJava","[16] 42, 1",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","1","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapJava","[9] 2147483647, 0",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","1","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapJava","[19] 561892, 3",""
+"passed","Sun Jul 25 06:39:48 GMT 2021","Sun Jul 25 06:39:48 GMT 2021","0","src.test.java.testCodi.a01binaryGap","test_solution_binary_gap","","","","test_solution_binary_gap[20-1]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a01binaryGap","test_solution_binary_gap","","","","test_solution_binary_gap[805306373-25]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a01binaryGap","test_solution_binary_gap","","","","test_solution_binary_gap[1376796946-5]",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","1","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapKotlin","[14] 11, 1",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","7","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapKotlin","[16] 42, 1",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03FrogJmp","test_frog_jmp","","","","test_frog_jmp[10-2234342345-1000000000-3]",""
+"passed","Sun Jul 25 06:42:50 GMT 2021","Sun Jul 25 06:42:50 GMT 2021","12","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapKotlin","[4] 1041, 5",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","7","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapKotlin","[15] 19, 2",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","2","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapJava","[17] 1162, 3",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03TapeEquilibrium","test_tape_equilibrium","","","","test_solution_cyclic_rotation[input_array7-0]",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","6","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapJava","[21] 6291457, 20",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","1","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapKotlin","[9] 2147483647, 0",""
+"passed","Sun Jul 25 06:39:48 GMT 2021","Sun Jul 25 06:39:48 GMT 2021","0","src.test.java.testCodi.a01binaryGap","test_solution_binary_gap","","","","test_solution_binary_gap[5-1]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03TapeEquilibrium","test_tape_equilibrium","","","","test_solution_cyclic_rotation[input_array3-1]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03PermMissingElem","test_perm_missing_element","","","","test_perm_missing_element[input_array8-1]",""
+"passed","Sun Jul 25 06:39:48 GMT 2021","Sun Jul 25 06:39:48 GMT 2021","1","src.test.java.testCodi.a01binaryGap","test_solution_binary_gap","","","","test_solution_binary_gap[6-0]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a04PermCheck","test_perm_check","","","","test_perm_check[input0-1]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03PermMissingElem","test_perm_missing_element","","","","test_perm_missing_element[input_array5-4]",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","1","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapKotlin","[11] 328, 2",""
+"passed","Sun Jul 25 06:39:48 GMT 2021","Sun Jul 25 06:39:48 GMT 2021","0","src.test.java.testCodi.a01binaryGap","test_solution_binary_gap","","","","test_solution_binary_gap[1024-0]",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","1","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapKotlin","[12] 16, 0",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","2","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapKotlin","[25] 1073741825, 29",""
+"passed","Sun Jul 25 06:39:48 GMT 2021","Sun Jul 25 06:39:48 GMT 2021","0","src.test.java.testCodi.a01binaryGap","test_solution_binary_gap","","","","test_solution_binary_gap[42-1]",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","21","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapJava","[7] 1, 0",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03PermMissingElem","test_perm_missing_element","","","","test_perm_missing_element[input_array4-1]",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","1","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapJava","[24] 1376796946, 5",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a01binaryGap","test_solution_binary_gap","","","","test_solution_binary_gap[1610612737-28]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03FrogJmp","test_frog_jmp","","","","test_frog_jmp[10-85-30-3]",""
+"passed","Sun Jul 25 06:39:48 GMT 2021","Sun Jul 25 06:39:48 GMT 2021","0","src.test.java.testCodi.a01binaryGap","test_solution_binary_gap","","","","test_solution_binary_gap[32-0]",""
+"passed","Sun Jul 25 06:39:48 GMT 2021","Sun Jul 25 06:39:48 GMT 2021","0","src.test.java.testCodi.a01binaryGap","test_solution_binary_gap","","","","test_solution_binary_gap[2147483647-0]",""
+"failed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","1","src.test.java.testCodi.a04FrogRiverOne","test_frog_river_one","","","","test_frog_river_one[5-input_array0-6]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","1","src.test.java.testCodi.a01binaryGap","test_solution_binary_gap","","","","test_solution_binary_gap[1162-3]",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","6","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapKotlin","[1] 9, 2",""
+"passed","Sun Jul 25 06:39:51 GMT 2021","Sun Jul 25 06:39:51 GMT 2021","3","","solution([ 1, 3, 6, 4, 1, 2, [length]: 6 ]) should equal 5","","solution([ 1, 3, 6, 4, 1, 2, [length]: 6 ]) should equal 5","input = 1,3,6,4,1,2, returns 5","input = 1,3,6,4,1,2, returns 5",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a01binaryGap","test_solution_binary_gap","","","","test_solution_binary_gap[561892-3]",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","1","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapJava","[23] 805306373, 25",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03TapeEquilibrium","test_tape_equilibrium","","","","test_solution_cyclic_rotation[input_array2-0]",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","2","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapJava","[11] 328, 2",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","1","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapJava","[13] 1024, 0",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a02OddOccurrencesInArray","test_odd_occurrences_in_array","","","","test_odd_occurrences_in_array[input_array1-4]",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","1","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapKotlin","[8] 5, 1",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03FrogJmp","test_frog_jmp","","","","test_frog_jmp[10-234342345-8-29292792]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a01binaryGap","test_solution_binary_gap","","","","test_solution_binary_gap[6291457-20]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a02CyclicRotation","test_solution_cyclic_rotation","","","","test_solution_cyclic_rotation[input_array0-3-expected_result0]",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","1","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapJava","[14] 11, 1",""
+"passed","Sun Jul 25 06:42:50 GMT 2021","Sun Jul 25 06:42:50 GMT 2021","4","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapKotlin","[6] 32, 0",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","10","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapKotlin","[23] 805306373, 25",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a04PermCheck","test_perm_check","","","","test_perm_check[input1-0]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03PermMissingElem","test_perm_missing_element","","","","test_perm_missing_element[input_array9-1]",""
+"passed","Sun Jul 25 06:39:48 GMT 2021","Sun Jul 25 06:39:48 GMT 2021","0","src.test.java.testCodi.a01binaryGap","test_solution_binary_gap","","","","test_solution_binary_gap[1041-5]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","1","src.test.java.testCodi.a03TapeEquilibrium","test_tape_equilibrium","","","","test_solution_cyclic_rotation[input_array16-680]",""
+"passed","Sun Jul 25 06:39:48 GMT 2021","Sun Jul 25 06:39:48 GMT 2021","0","src.test.java.testCodi.a01binaryGap","test_solution_binary_gap","","","","test_solution_binary_gap[1-0]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","1","src.test.java.testCodi.a01binaryGap","test_solution_binary_gap","","","","test_solution_binary_gap[74901729-4]",""
+"passed","Sun Jul 25 06:39:51 GMT 2021","Sun Jul 25 06:39:51 GMT 2021","0","","solution([ 1, 2, 3, 1, 1, 2, 4, 5, -1000000, 1000000, [length]: 10 ]) should equal 6","","solution([ 1, 2, 3, 1, 1, 2, 4, 5, -1000000, 1000000, [length]: 10 ]) should equal 6","input = 1,2,3,1,1,2,4,5,-1000000,1000000, returns 6","input = 1,2,3,1,1,2,4,5,-1000000,1000000, returns 6",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03TapeEquilibrium","test_tape_equilibrium","","","","test_solution_cyclic_rotation[input_array8-1]",""
+"passed","Sun Jul 25 06:39:51 GMT 2021","Sun Jul 25 06:39:51 GMT 2021","1","","solution([ 2, 3, 1, 2, 5, 4, 3, 5, 7, 1, 9, 4, [length]: 12 ]) should equal 6","","solution([ 2, 3, 1, 2, 5, 4, 3, 5, 7, 1, 9, 4, [length]: 12 ]) should equal 6","input = 2,3,1,2,5,4,3,5,7,1,9,4, returns 6","input = 2,3,1,2,5,4,3,5,7,1,9,4, returns 6",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","6","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapJava","[2] 529, 4",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03TapeEquilibrium","test_tape_equilibrium","","","","test_solution_cyclic_rotation[input_array9-1]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a02CyclicRotation","test_solution_cyclic_rotation","","","","test_solution_cyclic_rotation[input_array2-4-expected_result2]",""
+"passed","Sun Jul 25 06:39:48 GMT 2021","Sun Jul 25 06:39:48 GMT 2021","0","src.test.java.testCodi.a01binaryGap","test_solution_binary_gap","","","","test_solution_binary_gap[16-0]",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","1","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapJava","[1] 9, 2",""
+"passed","Sun Jul 25 06:39:48 GMT 2021","Sun Jul 25 06:39:48 GMT 2021","0","src.test.java.testCodi.a01binaryGap","test_solution_binary_gap","","","","test_solution_binary_gap[529-4]",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","11","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapJava","[18] 51712, 2",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03PermMissingElem","test_perm_missing_element","","","","test_perm_missing_element[input_array10-7]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03FrogJmp","test_frog_jmp","","","","test_frog_jmp[10-234342345-1-234342335]",""
+"passed","Sun Jul 25 06:39:48 GMT 2021","Sun Jul 25 06:39:48 GMT 2021","0","src.test.java.testCodi.a01binaryGap","test_solution_binary_gap","","","","test_solution_binary_gap[19-2]",""
+"passed","Sun Jul 25 06:39:51 GMT 2021","Sun Jul 25 06:39:51 GMT 2021","1","","solution([ 1, 2, 3, [length]: 3 ]) should equal 4","","solution([ 1, 2, 3, [length]: 3 ]) should equal 4","input = 1,2,3, returns 4","input = 1,2,3, returns 4",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03PermMissingElem","test_perm_missing_element","","","","test_perm_missing_element[input_array6-3]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","1","src.test.java.testCodi.a03PermMissingElem","test_perm_missing_element","","","","test_perm_missing_element[input_array7-2]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a01binaryGap","test_solution_binary_gap","","","","test_solution_binary_gap[1073741825-29]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03FrogJmp","test_frog_jmp","","","","test_frog_jmp[10-2234342345-1-2234342335]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03PermMissingElem","test_perm_missing_element","","","","test_perm_missing_element[input_array0-1]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","1","src.test.java.testCodi.a03TapeEquilibrium","test_tape_equilibrium","","","","test_solution_cyclic_rotation[input_array12-39]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03TapeEquilibrium","test_tape_equilibrium","","","","test_solution_cyclic_rotation[input_array13-234]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a02CyclicRotation","test_solution_cyclic_rotation","","","","test_solution_cyclic_rotation[input_array1-1-expected_result1]",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","10","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapKotlin","[20] 66561, 9",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03TapeEquilibrium","test_tape_equilibrium","","","","test_solution_cyclic_rotation[input_array1-2000]",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","3","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapKotlin","[24] 1376796946, 5",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a01binaryGap","test_solution_binary_gap","","","","test_solution_binary_gap[66561-9]",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","2","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapKotlin","[22] 74901729, 4",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03PermMissingElem","test_perm_missing_element","","","","test_perm_missing_element[input_array3-6]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a02OddOccurrencesInArray","test_odd_occurrences_in_array","","","","test_odd_occurrences_in_array[input_array2-42]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","1","src.test.java.testCodi.a03TapeEquilibrium","test_tape_equilibrium","","","","test_solution_cyclic_rotation[input_array11-0]",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.a03TapeEquilibrium","test_tape_equilibrium","","","","test_solution_cyclic_rotation[input_array14-20]",""
+"failed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","0","src.test.java.testCodi.problems.NextVacation","test_next_vacation","","","","test_next_vacation[input0-5]",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","0","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapJava","[12] 16, 0",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","3","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapJava","[20] 66561, 9",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","3","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapKotlin","[26] 1610612737, 28",""
+"passed","Sun Jul 25 06:42:50 GMT 2021","Sun Jul 25 06:42:50 GMT 2021","121","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapJava","[3] 20, 1",""
+"passed","Sun Jul 25 06:42:50 GMT 2021","Sun Jul 25 06:42:50 GMT 2021","1","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapKotlin","[7] 1, 0",""
+"passed","Sun Jul 25 06:42:51 GMT 2021","Sun Jul 25 06:42:51 GMT 2021","3","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapKotlin","[13] 1024, 0",""
+"passed","Sun Jul 25 06:39:49 GMT 2021","Sun Jul 25 06:39:49 GMT 2021","1","src.test.java.testCodi.a03PermMissingElem","test_perm_missing_element","","","","test_perm_missing_element[input_array2-2]",""
+"passed","Sun Jul 25 06:42:50 GMT 2021","Sun Jul 25 06:42:50 GMT 2021","215","","testCodi.a01BinaryGap.SolutionTest","","testCodi.a01BinaryGap.SolutionTest","testBinaryGapKotlin","[3] 20, 1",""
