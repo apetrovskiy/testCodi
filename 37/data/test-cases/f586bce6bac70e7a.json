@@ -1,0 +1,75 @@
+{
+  "uid" : "f586bce6bac70e7a",
+  "name" : "input = -1,-3, returns 1",
+  "fullName" : "solution([ -1, -3, [length]: 2 ]) should equal 1.input = -1,-3, returns 1",
+  "historyId" : "5be084921319219b1177f85d326d673d",
+  "time" : {
+    "start" : 1627194505259,
+    "stop" : 1627194505261,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "solution([ -1, -3, [length]: 2 ]) should equal 1"
+  }, {
+    "name" : "testClass",
+    "value" : "solution([ -1, -3, [length]: 2 ]) should equal 1"
+  }, {
+    "name" : "testMethod",
+    "value" : "input = -1,-3, returns 1"
+  }, {
+    "name" : "package",
+    "value" : "solution([ -1, -3, [length]: 2 ]) should equal 1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "c4b40c0f6c341de1",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/36//#testresult/c4b40c0f6c341de1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623667121013,
+          "stop" : 1623667121013,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "abc8dd7638b2af70",
+        "reportUrl" : "https://apetrovskiy.github.io/testCodi/35//#testresult/abc8dd7638b2af70",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623618243006,
+          "stop" : 1623618243007,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "f586bce6bac70e7a.json",
+  "parameterValues" : [ ]
+}
