@@ -4,7 +4,7 @@
 // you can write to stdout for debugging purposes, e.g.
 // System.out.println("this is a debug message");
 
-package testCodi.a01BinaryGap;
+package testCodi.a01binaryGap;
 
 @SuppressWarnings("PMD")
 class SolutionJ {

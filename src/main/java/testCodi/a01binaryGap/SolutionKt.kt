@@ -1,4 +1,4 @@
-package testCodi.a01BinaryGap
+package testCodi.a01binaryGap
 
 class SolutionKt {
     fun solution(N: Int): Int {
