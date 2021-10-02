@@ -10,13 +10,6 @@ jobs:
 
     runs-on: ubuntu-latest
 
-    # strategy:
-    #   matrix:
-    #     # ruby-version: ['2.6', '2.7', '3.0']
-    #     ruby-version: ['2.7']
-    #     # node-version: [10.x, 12.x, 14.x, 15.x, 16.x]
-    #     node-version: [16.x]
-
     steps:
     - uses: actions/checkout@v2
 
@@ -43,9 +36,6 @@ jobs:
       run: |
         pwd
         pytest --alluredir=allure-results
-#     - name: Analysing the code with pylint
-#       run: |
-#         pylint `ls -R|grep .py$|xargs`
 
     - name: Look at Allure
       if: always()
@@ -58,12 +48,6 @@ jobs:
       with:
         name: allure-results
         path: allure-results
-    # - name: Archive Allure reports
-    #   if: always()
-    #   uses: actions/upload-artifact@v2
-    #   with:
-    #     name: allure-reports
-    #     path: allure-reports
 
   ruby:
     runs-on: ubuntu-latest
