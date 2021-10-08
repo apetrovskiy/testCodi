@@ -1,4 +1,4 @@
-package testCoBy_test
+package testCodi_test
 
 import (
 	"testing"
@@ -7,7 +7,7 @@ import (
 	. "github.com/onsi/gomega"
 )
 
-func TestTestCoWa(t *testing.T) {
+func TestTestCodi(t *testing.T) {
 	RegisterFailHandler(Fail)
-	RunSpecs(t, "TestCoBy Suite")
+	RunSpecs(t, "TestCodi Suite")
 }
