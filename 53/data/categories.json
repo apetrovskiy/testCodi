@@ -1,0 +1,111 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 6 == 0\n +  where 0 = solution(5, [1, 3, 1, 4, 2, 3, ...])",
+      "children" : [ {
+        "name" : "test_frog_river_one[5-input_array0-6]",
+        "uid" : "7076337aae5a93b4",
+        "parentUid" : "1860ee8886a9d9d4add148b4baa60541",
+        "status" : "failed",
+        "time" : {
+          "start" : 1636611797926,
+          "stop" : 1636611797926,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "6", "[1, 3, 1, 4, 2, 3, 5, 4]", "5" ]
+      } ],
+      "uid" : "1860ee8886a9d9d4add148b4baa60541"
+    }, {
+      "name" : "AssertionError: assert 2 == 0\n +  where 0 = solution(3, [2, 1, 3])",
+      "children" : [ {
+        "name" : "test_frog_river_one[3-input_array1-2]",
+        "uid" : "f4a2bb619dc3a70b",
+        "parentUid" : "bc4eb3d2e09b464cc307c732e02d0d56",
+        "status" : "failed",
+        "time" : {
+          "start" : 1636611797951,
+          "stop" : 1636611797951,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "2", "[2, 1, 3]", "3" ]
+      } ],
+      "uid" : "bc4eb3d2e09b464cc307c732e02d0d56"
+    }, {
+      "name" : "AssertionError: assert [3, 2, 2, 4, 2] == []\n  Left contains 5 more items, first extra item: 3\n  Use -v to get the full diff",
+      "children" : [ {
+        "name" : "test_max_counters[5-input_array0-expected_result0]",
+        "uid" : "5109e9a36e33e134",
+        "parentUid" : "5ba4fee3504718a47aa7cfecbbaf3c4c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1636611797955,
+          "stop" : 1636611797956,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "[3, 2, 2, 4, 2]", "[3, 4, 4, 6, 1, 4, 4]", "5" ]
+      } ],
+      "uid" : "5ba4fee3504718a47aa7cfecbbaf3c4c"
+    }, {
+      "name" : "AssertionError: assert 5 == 0\n +  where 0 = next_vacation([7, 3, 7, 3, 1, 3, ...])",
+      "children" : [ {
+        "name" : "test_next_vacation[input0-5]",
+        "uid" : "b409a0aab94ad810",
+        "parentUid" : "f71e596a317f3d03662d935bbedbae73",
+        "status" : "failed",
+        "time" : {
+          "start" : 1636611797966,
+          "stop" : 1636611797966,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "5", "[7, 3, 7, 3, 1, 3, 4, 1]" ]
+      } ],
+      "uid" : "f71e596a317f3d03662d935bbedbae73"
+    }, {
+      "name" : "AssertionError: assert 3 == 0\n +  where 0 = next_vacation([2, 1, 1, 3, 2, 1, ...])",
+      "children" : [ {
+        "name" : "test_next_vacation[input1-3]",
+        "uid" : "e939b6e09fa9e093",
+        "parentUid" : "bab9330b1980cbbf86fcffd0ce5fff0b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1636611797970,
+          "stop" : 1636611797970,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "3", "[2, 1, 1, 3, 2, 1, 1, 3]" ]
+      } ],
+      "uid" : "bab9330b1980cbbf86fcffd0ce5fff0b"
+    }, {
+      "name" : "AssertionError: assert 6 == 0\n +  where 0 = next_vacation([7, 5, 2, 7, 2, 7, ...])",
+      "children" : [ {
+        "name" : "test_next_vacation[input2-6]",
+        "uid" : "6fb9742646c776a5",
+        "parentUid" : "51396c49e87d0b82fcaae26752ad2e1e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1636611797974,
+          "stop" : 1636611797974,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "6", "[7, 5, 2, 7, 2, 7, 4, 7]" ]
+      } ],
+      "uid" : "51396c49e87d0b82fcaae26752ad2e1e"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}
