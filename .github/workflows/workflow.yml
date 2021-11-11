@@ -42,6 +42,10 @@ jobs:
       if: always()
       run: |
         pwd
+        #
+        echo "aaaa=bbbb" > allure-results/environment.properties
+        echo "ccc=ddd" >> allure-results/environment.properties
+        #
         pytest --alluredir=allure-results
 #     - name: Analysing the code with pylint
 #       run: |
