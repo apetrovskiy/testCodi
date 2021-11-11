@@ -424,13 +424,13 @@ jobs:
         path: gh-pages
 
     - name: Allure Report with history
-      uses: simple-elf/allure-report-action@v1.5
+      uses: simple-elf/allure-report-action@master
       if: always()
 
     - name: Allure Report action from marketplace
       uses: simple-elf/allure-report-action@master
       if: always()
-      #id: allure-report
+      id: allure-report
       with:
         allure_results: allure-results
         gh_pages: gh-pages
